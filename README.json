@@ -1,0 +1,279 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Learning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Simulators"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Gerber Viewers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "CAD Specific"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Keyboard PCB Guide",
+          "description": "Comprehensive written tutorial that takes you through creating a keyboard PCB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-02T01:32:39Z",
+            "owner": "ruiqimao",
+            "repo": "keyboard-pcb-guide",
+            "stars": 4926
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InteractiveHtmlBom",
+          "description": "A html BOM generation tool for manual pick and place.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-12T01:14:05Z",
+            "owner": "openscopeproject",
+            "repo": "InteractiveHtmlBom",
+            "stars": 4512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xesscorp's list of KiCad 3rd party tools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-15T12:31:57Z",
+            "owner": "devbisme",
+            "repo": "kicad-3rd-party-tools",
+            "stars": 836
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KiBot",
+          "description": "Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T14:19:59Z",
+            "owner": "INTI-CMNB",
+            "repo": "KiBot",
+            "stars": 730
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Footprint Collection",
+          "description": "Collection of all the KiCad footprints available online and some scripts to manage them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-25T15:22:30Z",
+            "owner": "kitspace",
+            "repo": "kicad_footprints",
+            "stars": 367
+          }
+        }
+      ],
+      "title": "KiCad"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SparkFun Electronics Eagle Libraries",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-23T17:26:32Z",
+            "owner": "sparkfun",
+            "repo": "SparkFun-Eagle-Libraries",
+            "stars": 1799
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adafruit Eagle Library",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-07-20T15:03:10Z",
+            "owner": "adafruit",
+            "repo": "Adafruit-Eagle-Library",
+            "stars": 1032
+          }
+        }
+      ],
+      "title": "Eagle"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Forums"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "delftopenhardware/awesome-open-hardware",
+          "description": "Helpful items for making and learning about open source hardware projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-06T07:20:15Z",
+            "owner": "delftopenhardware",
+            "repo": "awesome-open-hardware",
+            "stars": 1024
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "embedded-boston/awesome-embedded-systems",
+          "description": "Awesome list of embedded programming resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-01-04T03:35:24Z",
+            "owner": "embedded-boston",
+            "repo": "awesome-embedded-systems",
+            "stars": 1002
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "intajay/open-electronics",
+          "description": "Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-12-22T18:40:08Z",
+            "owner": "ajaymnk",
+            "repo": "open-electronics",
+            "stars": 741
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cajt/list_of_robot_electronics",
+          "description": "A GitHub list of resources, projects and products for robot electronics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-07-26T08:29:58Z",
+            "owner": "cajt",
+            "repo": "list_of_robot_electronics",
+            "stars": 437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PwnKitteh/InsanelyCheapElectronics",
+          "description": "A list of cheap electronics from China, that you can use in your projects.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2021-03-29T11:58:46Z",
+            "owner": "0xjmux",
+            "repo": "InsanelyCheapElectronics",
+            "stars": 397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vitorian/awesome-fpga",
+          "description": "Awesome list of FPGA resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-05-25T21:45:38Z",
+            "owner": "Vitorian",
+            "repo": "awesome-fpga",
+            "stars": 395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Lattice FPGAs",
+          "description": "A curated list of awesome open-source FPGA boards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-09T19:00:55Z",
+            "owner": "kelu124",
+            "repo": "awesome-latticeFPGAs",
+            "stars": 358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "upb-lea/awesome-open-source-power-electronics",
+          "description": "Open source software list specialized on power electronics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-10T09:04:56Z",
+            "owner": "upb-lea",
+            "repo": "awesome-open-source-power-electronics",
+            "stars": 348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TM90/awesome-hwd-tools",
+          "description": "A curated list of hardware design tools with a focus on chip design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-20T13:22:17Z",
+            "owner": "TM90",
+            "repo": "awesome-hwd-tools",
+            "stars": 90
+          }
+        }
+      ],
+      "title": "Other Lists"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:56:56.340Z",
+    "original_repository": "kitspace/awesome-electronics",
+    "original_repository_sha": "fbecbedf01155d04f64ff686c4881bd1960d8467",
+    "enhanced_repository": "enhansome/enhansome-electronics",
+    "enhanced_repository_description": null,
+    "title": "Awesome Electronics with stars"
+  }
+}
