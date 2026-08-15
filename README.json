@@ -48,7 +48,7 @@
             "last_commit": "2026-07-12T01:14:05Z",
             "owner": "openscopeproject",
             "repo": "InteractiveHtmlBom",
-            "stars": 4511
+            "stars": 4512
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-05-15T12:31:57Z",
             "owner": "devbisme",
             "repo": "kicad-3rd-party-tools",
-            "stars": 837
+            "stars": 838
           }
         },
         {
@@ -73,10 +73,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T16:58:17Z",
+            "last_commit": "2026-08-14T13:52:17Z",
             "owner": "INTI-CMNB",
             "repo": "KiBot",
-            "stars": 730
+            "stars": 731
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2023-01-25T15:22:30Z",
             "owner": "kitspace",
             "repo": "kicad_footprints",
-            "stars": 367
+            "stars": 368
           }
         }
       ],
@@ -110,7 +110,7 @@
             "last_commit": "2024-08-23T17:26:32Z",
             "owner": "sparkfun",
             "repo": "SparkFun-Eagle-Libraries",
-            "stars": 1799
+            "stars": 1798
           }
         },
         {
@@ -149,7 +149,7 @@
             "last_commit": "2026-08-06T07:20:15Z",
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1025
+            "stars": 1027
           }
         },
         {
@@ -163,7 +163,7 @@
             "last_commit": "2024-01-04T03:35:24Z",
             "owner": "embedded-boston",
             "repo": "awesome-embedded-systems",
-            "stars": 1003
+            "stars": 1002
           }
         },
         {
@@ -219,7 +219,7 @@
             "last_commit": "2017-05-25T21:45:38Z",
             "owner": "Vitorian",
             "repo": "awesome-fpga",
-            "stars": 395
+            "stars": 394
           }
         },
         {
@@ -233,7 +233,7 @@
             "last_commit": "2026-07-09T19:00:55Z",
             "owner": "kelu124",
             "repo": "awesome-latticeFPGAs",
-            "stars": 358
+            "stars": 359
           }
         },
         {
@@ -247,7 +247,7 @@
             "last_commit": "2026-03-10T09:04:56Z",
             "owner": "upb-lea",
             "repo": "awesome-open-source-power-electronics",
-            "stars": 349
+            "stars": 350
           }
         },
         {
@@ -269,7 +269,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T04:29:50.505Z",
+    "last_updated": "2026-08-15T03:24:30.801Z",
     "original_repository": "kitspace/awesome-electronics",
     "original_repository_sha": "fbecbedf01155d04f64ff686c4881bd1960d8467",
     "enhanced_repository": "enhansome/enhansome-electronics",
