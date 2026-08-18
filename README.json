@@ -34,7 +34,7 @@
             "last_commit": "2024-07-02T01:32:39Z",
             "owner": "ruiqimao",
             "repo": "keyboard-pcb-guide",
-            "stars": 4929
+            "stars": 4930
           }
         },
         {
@@ -48,7 +48,7 @@
             "last_commit": "2026-07-12T01:14:05Z",
             "owner": "openscopeproject",
             "repo": "InteractiveHtmlBom",
-            "stars": 4517
+            "stars": 4520
           }
         },
         {
@@ -149,7 +149,7 @@
             "last_commit": "2026-08-06T07:20:15Z",
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1029
+            "stars": 1030
           }
         },
         {
@@ -247,7 +247,7 @@
             "last_commit": "2026-03-10T09:04:56Z",
             "owner": "upb-lea",
             "repo": "awesome-open-source-power-electronics",
-            "stars": 350
+            "stars": 351
           }
         },
         {
@@ -269,7 +269,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T03:34:22.652Z",
+    "last_updated": "2026-08-18T03:28:42.445Z",
     "original_repository": "kitspace/awesome-electronics",
     "original_repository_sha": "fbecbedf01155d04f64ff686c4881bd1960d8467",
     "enhanced_repository": "enhansome/enhansome-electronics",
