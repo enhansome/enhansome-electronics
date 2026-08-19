@@ -1,142 +1,132 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Learning"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Simulators"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Gerber Viewers"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Keyboard PCB Guide",
+              "description": "Comprehensive written tutorial that takes you through creating a keyboard PCB.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78909052,
+                "language": null,
+                "last_commit": "2024-07-02T01:32:39Z",
+                "owner": "ruiqimao",
+                "repo": "keyboard-pcb-guide",
+                "stars": 4931
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InteractiveHtmlBom",
+              "description": "A html BOM generation tool for manual pick and place.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 142263436,
+                "language": "Python",
+                "last_commit": "2026-07-12T01:14:05Z",
+                "owner": "openscopeproject",
+                "repo": "InteractiveHtmlBom",
+                "stars": 4520
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Xesscorp's list of KiCad 3rd party tools",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75402926,
+                "language": null,
+                "last_commit": "2026-05-15T12:31:57Z",
+                "owner": "devbisme",
+                "repo": "kicad-3rd-party-tools",
+                "stars": 838
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KiBot",
+              "description": "Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 246344800,
+                "language": "Python",
+                "last_commit": "2026-08-14T13:52:17Z",
+                "owner": "INTI-CMNB",
+                "repo": "KiBot",
+                "stars": 731
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Footprint Collection",
+              "description": "Collection of all the KiCad footprints available online and some scripts to manage them.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50934482,
+                "language": "Python",
+                "last_commit": "2023-01-25T15:22:30Z",
+                "owner": "kitspace",
+                "repo": "kicad_footprints",
+                "stars": 368
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "KiCad"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SparkFun Electronics Eagle Libraries",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3203182,
+                "language": null,
+                "last_commit": "2024-08-23T17:26:32Z",
+                "owner": "sparkfun",
+                "repo": "SparkFun-Eagle-Libraries",
+                "stars": 1798
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Adafruit Eagle Library",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 469664,
+                "language": null,
+                "last_commit": "2020-07-20T15:03:10Z",
+                "owner": "adafruit",
+                "repo": "Adafruit-Eagle-Library",
+                "stars": 1032
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Eagle"
+        }
+      ],
       "title": "CAD Specific"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Keyboard PCB Guide",
-          "description": "Comprehensive written tutorial that takes you through creating a keyboard PCB.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-07-02T01:32:39Z",
-            "owner": "ruiqimao",
-            "repo": "keyboard-pcb-guide",
-            "stars": 4931
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "InteractiveHtmlBom",
-          "description": "A html BOM generation tool for manual pick and place.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-12T01:14:05Z",
-            "owner": "openscopeproject",
-            "repo": "InteractiveHtmlBom",
-            "stars": 4520
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Xesscorp's list of KiCad 3rd party tools",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-05-15T12:31:57Z",
-            "owner": "devbisme",
-            "repo": "kicad-3rd-party-tools",
-            "stars": 838
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KiBot",
-          "description": "Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T13:52:17Z",
-            "owner": "INTI-CMNB",
-            "repo": "KiBot",
-            "stars": 731
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Footprint Collection",
-          "description": "Collection of all the KiCad footprints available online and some scripts to manage them.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-01-25T15:22:30Z",
-            "owner": "kitspace",
-            "repo": "kicad_footprints",
-            "stars": 368
-          }
-        }
-      ],
-      "title": "KiCad"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SparkFun Electronics Eagle Libraries",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-08-23T17:26:32Z",
-            "owner": "sparkfun",
-            "repo": "SparkFun-Eagle-Libraries",
-            "stars": 1798
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Adafruit Eagle Library",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-07-20T15:03:10Z",
-            "owner": "adafruit",
-            "repo": "Adafruit-Eagle-Library",
-            "stars": 1032
-          }
-        }
-      ],
-      "title": "Eagle"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Forums"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -145,6 +135,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 441230859,
             "language": null,
             "last_commit": "2026-08-06T07:20:15Z",
             "owner": "delftopenhardware",
@@ -159,6 +150,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70651393,
             "language": null,
             "last_commit": "2024-01-04T03:35:24Z",
             "owner": "embedded-boston",
@@ -173,6 +165,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80423302,
             "language": null,
             "last_commit": "2024-12-22T18:40:08Z",
             "owner": "ajaymnk",
@@ -187,6 +180,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86088366,
             "language": null,
             "last_commit": "2025-07-26T08:29:58Z",
             "owner": "cajt",
@@ -201,6 +195,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 119320472,
             "language": null,
             "last_commit": "2021-03-29T11:58:46Z",
             "owner": "0xjmux",
@@ -215,6 +210,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61965054,
             "language": null,
             "last_commit": "2017-05-25T21:45:38Z",
             "owner": "Vitorian",
@@ -229,6 +225,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231812493,
             "language": null,
             "last_commit": "2026-07-09T19:00:55Z",
             "owner": "kelu124",
@@ -243,6 +240,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 438586397,
             "language": null,
             "last_commit": "2026-03-10T09:04:56Z",
             "owner": "upb-lea",
@@ -257,6 +255,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158928501,
             "language": null,
             "last_commit": "2025-06-20T13:22:17Z",
             "owner": "TM90",
@@ -269,8 +268,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:30:49.555Z",
+    "last_updated": "2026-08-19T12:26:43.235Z",
     "original_repository": "kitspace/awesome-electronics",
+    "original_repository_id": 64177015,
     "original_repository_sha": "fbecbedf01155d04f64ff686c4881bd1960d8467",
     "enhanced_repository": "enhansome/enhansome-electronics",
     "enhanced_repository_description": null,
