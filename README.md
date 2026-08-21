@@ -140,10 +140,10 @@ This list is for websites, services, software, tools and more: everything that y
 
 ### KiCad
 
-* [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) ⭐ 4,931 | 🐛 22 | 📅 2024-07-02 -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
-* [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) ⭐ 4,523 | 🐛 41 | 🌐 Python | 📅 2026-07-12 - A html BOM generation tool for manual pick and place.
+* [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) ⭐ 4,932 | 🐛 22 | 📅 2024-07-02 -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
+* [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) ⭐ 4,526 | 🐛 41 | 🌐 Python | 📅 2026-07-12 - A html BOM generation tool for manual pick and place.
 * [Xesscorp's list of KiCad 3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools) ⭐ 838 | 🐛 3 | 📅 2026-05-15
-* [KiBot](https://github.com/INTI-CMNB/KiBot) ⭐ 731 | 🐛 26 | 🌐 Python | 📅 2026-08-14 - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
+* [KiBot](https://github.com/INTI-CMNB/KiBot) ⭐ 732 | 🐛 26 | 🌐 Python | 📅 2026-08-20 - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
 * [Footprint Collection](https://github.com/kitspace/kicad_footprints) ⭐ 368 | 🐛 4 | 🌐 Python | 📅 2023-01-25 - Collection of all the KiCad footprints available online and some scripts to manage them.
 * [Contextual Electronics' Shine on You Crazy KiCad](https://contextualelectronics.com/courses/shine-on-you-crazy-kicad/) - Beginner video tutorial that gets you to a manufactured board as quickly as possible.
 * [Contextual Electronics' Getting to Blinky Tutorial](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q) - A more comprehensive beginner to intermediate video tutorial.
@@ -152,7 +152,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 ### Eagle
 
-* [SparkFun Electronics Eagle Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries) ⭐ 1,798 | 🐛 10 | 📅 2024-08-23
+* [SparkFun Electronics Eagle Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries) ⭐ 1,797 | 🐛 10 | 📅 2024-08-23
 * [Adafruit Eagle Library](https://github.com/adafruit/Adafruit-Eagle-Library) ⭐ 1,032 | 🐛 34 | 📅 2020-07-20
 * [List of ULPs everyone should know](https://www.element14.com/community/community/eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
 
@@ -271,13 +271,13 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Other Lists
 
-* [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) ⭐ 1,030 | 🐛 3 | 📅 2026-08-06 - Helpful items for making and learning about open source hardware projects.
+* [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) ⭐ 1,031 | 🐛 2 | 📅 2026-08-20 - Helpful items for making and learning about open source hardware projects.
 * [embedded-boston/awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems) ⭐ 1,006 | 🐛 8 | 📅 2024-01-04 - Awesome list of embedded programming resources.
 * [intajay/open-electronics](https://github.com/intajay/open-electronics) ⭐ 742 | 🐛 2 | 📅 2024-12-22 - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
 * [cajt/list\_of\_robot\_electronics](https://github.com/cajt/list_of_robot_electronics) ⭐ 437 | 🐛 1 | 📅 2025-07-26 - A GitHub list of resources, projects and products for robot electronics.
 * [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) ⚠️ Archived - A list of cheap electronics from China, that you can use in your projects.
-* [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga) ⭐ 394 | 🐛 1 | 📅 2017-05-25 - Awesome list of FPGA resources.
-* [Awesome Lattice FPGAs](https://github.com/kelu124/awesome-latticeFPGAs) ⭐ 359 | 🐛 0 | 📅 2026-07-09 - A curated list of awesome open-source FPGA boards.
+* [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga) ⭐ 395 | 🐛 1 | 📅 2017-05-25 - Awesome list of FPGA resources.
+* [Awesome Lattice FPGAs](https://github.com/kelu124/awesome-latticeFPGAs) ⭐ 360 | 🐛 0 | 📅 2026-07-09 - A curated list of awesome open-source FPGA boards.
 * [upb-lea/awesome-open-source-power-electronics](https://github.com/upb-lea/awesome-open-source-power-electronics) ⭐ 350 | 🐛 0 | 📅 2026-03-10 - Open source software list specialized on power electronics.
 * [TM90/awesome-hwd-tools](https://github.com/TM90/awesome-hwd-tools) ⭐ 90 | 🐛 0 | 📅 2025-06-20 - A curated list of hardware design tools with a focus on chip design.
 * [PCB/EDA software list on the EEVblog forums](https://www.eevblog.com/forum/eda/pcbeda-software-list/) - A much more comprehensive list of all the software tools available.
@@ -292,4 +292,4 @@ This list is for websites, services, software, tools and more: everything that y
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

@@ -17,7 +17,7 @@
                 "last_commit": "2024-07-02T01:32:39Z",
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4931
+                "stars": 4932
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-07-12T01:14:05Z",
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4523
+                "stars": 4526
               }
             },
             {
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 246344800,
                 "language": "Python",
-                "last_commit": "2026-08-14T13:52:17Z",
+                "last_commit": "2026-08-20T16:32:52Z",
                 "owner": "INTI-CMNB",
                 "repo": "KiBot",
-                "stars": 731
+                "stars": 732
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2024-08-23T17:26:32Z",
                 "owner": "sparkfun",
                 "repo": "SparkFun-Eagle-Libraries",
-                "stars": 1798
+                "stars": 1797
               }
             },
             {
@@ -137,10 +137,10 @@
             "archived": false,
             "id": 441230859,
             "language": null,
-            "last_commit": "2026-08-06T07:20:15Z",
+            "last_commit": "2026-08-20T11:41:28Z",
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1030
+            "stars": 1031
           }
         },
         {
@@ -215,7 +215,7 @@
             "last_commit": "2017-05-25T21:45:38Z",
             "owner": "Vitorian",
             "repo": "awesome-fpga",
-            "stars": 394
+            "stars": 395
           }
         },
         {
@@ -230,7 +230,7 @@
             "last_commit": "2026-07-09T19:00:55Z",
             "owner": "kelu124",
             "repo": "awesome-latticeFPGAs",
-            "stars": 359
+            "stars": 360
           }
         },
         {
@@ -268,7 +268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:30:57.509Z",
+    "last_updated": "2026-08-21T03:36:40.330Z",
     "original_repository": "kitspace/awesome-electronics",
     "original_repository_id": 64177015,
     "original_repository_sha": "fbecbedf01155d04f64ff686c4881bd1960d8467",
