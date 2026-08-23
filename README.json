@@ -17,7 +17,7 @@
                 "last_commit": "2024-07-02T01:32:39Z",
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4933
+                "stars": 4934
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-07-12T01:14:05Z",
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4527
+                "stars": 4528
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-05-15T12:31:57Z",
                 "owner": "devbisme",
                 "repo": "kicad-3rd-party-tools",
-                "stars": 838
+                "stars": 839
               }
             },
             {
@@ -140,7 +140,7 @@
             "last_commit": "2026-08-20T11:41:28Z",
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1031
+            "stars": 1034
           }
         },
         {
@@ -155,7 +155,7 @@
             "last_commit": "2024-01-04T03:35:24Z",
             "owner": "embedded-boston",
             "repo": "awesome-embedded-systems",
-            "stars": 1006
+            "stars": 1007
           }
         },
         {
@@ -245,7 +245,7 @@
             "last_commit": "2026-03-10T09:04:56Z",
             "owner": "upb-lea",
             "repo": "awesome-open-source-power-electronics",
-            "stars": 350
+            "stars": 351
           }
         },
         {
@@ -268,7 +268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T03:26:18.879Z",
+    "last_updated": "2026-08-23T03:36:21.065Z",
     "original_repository": "kitspace/awesome-electronics",
     "original_repository_id": 64177015,
     "original_repository_sha": "fbecbedf01155d04f64ff686c4881bd1960d8467",
