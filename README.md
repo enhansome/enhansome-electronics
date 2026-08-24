@@ -81,6 +81,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 ### Analog and Mixed Signal Circuit Simulators
 
+* [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project](https://github.com/geckocircuits/GeckoCIRCUITS) ⭐ 86 | 🐛 14 | 🌐 Java | 📅 2026-02-23. Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
 * [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) - The industry standard free SPICE circuit simulator from Linear Technologies. Also see the unofficial [LTwiki](http://ltwiki.org/?title=Main_Page) and [Group](https://groups.io/g/LTspice).
 * [ngspice](http://ngspice.sourceforge.net/) - Open source SPICE circuit simulator.
 * [Circuit JS/Falstad](http://www.falstad.com/circuit/circuitjs.html) - Free, open source online simulator with electron flow visualization (rewrite of original Java applet by Paul Falstad).
@@ -94,7 +95,6 @@ This list is for websites, services, software, tools and more: everything that y
 * [Scilab with Xcos](https://www.scilab.org/) - Free, open source numerical computing alternative to MATLAB. Xcos provides Electrical System modeling capability similar to Simulink.
 * [iCircuit](http://icircuitapp.com/) - Easy to use electronic circuit simulator, its advanced simulation engine can handle both analog and digital circuits and features realtime always-on analysis.
 * [Micro-Cap](http://www.spectrum-soft.com/download/download.shtm) - Professional-grade mixed signal simulator with wide variety of interactive simulation types.
-* [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project](https://github.com/geckocircuits/GeckoCIRCUITS) ⭐ 86 | 🐛 14 | 🌐 Java | 📅 2026-02-23. Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
 * [Proteus](https://www.labcenter.com/) - PCB Design and Circuit Simulator Software.
 
 ### Verilog HDL Simulators
@@ -121,6 +121,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Free EDA Packages
 
+* [Horizon EDA](https://github.com/horizon-eda/horizon) ⭐ 1,310 | 🐛 162 | 🌐 C | 📅 2026-07-28 - A free and open source EDA tool with the focus on shortcut operation.
 * [KiCad](https://kicad.org/) - Open source EDA package with push and shove router, differential pairs and much more.
 * [Eagle](https://www.autodesk.com/products/eagle/overview) - One of the most popular EDA packages due to it's (board size restricted) free version.
 * [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software) - Gratis EDA package without restrictions, sponserd by RS Components.
@@ -128,7 +129,6 @@ This list is for websites, services, software, tools and more: everything that y
 * [gEDA](http://geda-project.org) - Another open source package, good for people that like scripting and makefiles, Linux and BSD only.
 * [DipTrace](https://diptrace.com) - Quality Schematic Capture and PCB Design software with (pin and signal layer restricted) free version.
 * [LibrePCB](https://librepcb.org/) - A new, powerful and intuitive EDA tool for everyone, cross-platform and GNU GPLv3.
-* [Horizon EDA](https://github.com/horizon-eda/horizon) ⭐ 1,310 | 🐛 162 | 🌐 C | 📅 2026-07-28 - A free and open source EDA tool with the focus on shortcut operation.
 * [EasyEDA](https://easyeda.com/) - Easy to use with both browser based and cross platform app versions. Integrates [LCSC](https://www.lcsc.com/products) and [JLCPCB](https://jlcpcb.com/parts) component catalogs with 3D models.
 
 ## Paid EDA Packages
@@ -191,15 +191,15 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Inventory Management and Purchasing
 
-* [PartsBox](https://partsbox.io) - Web service to manage your part inventory with a nice user interface and Octopart integration.
 * [Part-DB](https://github.com/Part-DB/Part-DB) ⭐ 166 | 🐛 36 | 🌐 JavaScript | 📅 2024-04-15 - Another open source web service for managing part inventory with a permission system and a good barcode generator.
+* [PartsBox](https://partsbox.io) - Web service to manage your part inventory with a nice user interface and Octopart integration.
 * [InvenTree](https://inventree.org) - Open source web service for managing part inventory with parametric search, extensive API and plugin system
 *
 
 ## Miscellaneous Software Projects
 
-* [SnapEDA](https://www.snapeda.com) - Parts library with free symbols & footprints. (Compatible with Eagle, KiCad, Altium, OrCad, Allegro, etc.)
 * [Language PCB](https://github.com/Alhadis/language-pcb) ⭐ 21 | 🐛 0 | 📅 2022-02-10 - Syntax highlighting for various PCB formats.
+* [SnapEDA](https://www.snapeda.com) - Parts library with free symbols & footprints. (Compatible with Eagle, KiCad, Altium, OrCad, Allegro, etc.)
 * [NinjaCalc](https://gbmhunter.github.io/NinjaCalc/) - An embedded engineering calculator toolbox for doing calculations in a breeze.
 * [Saturn PCB Design Toolkit](https://saturnpcb.com/saturn-pcb-toolkit/) - The Saturn PCB Toolkit is the best freeware resource for PCB related calculations you can find.
 * [KiCanvas](https://kicanvas.org/) - An open source online viewer of KiCad schematics and boards.
@@ -272,14 +272,14 @@ This list is for websites, services, software, tools and more: everything that y
 ## Other Lists
 
 * [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) ⭐ 1,034 | 🐛 2 | 📅 2026-08-20 - Helpful items for making and learning about open source hardware projects.
-* [embedded-boston/awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems) ⭐ 1,007 | 🐛 8 | 📅 2024-01-04 - Awesome list of embedded programming resources.
+* [embedded-boston/awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems) ⭐ 1,008 | 🐛 8 | 📅 2024-01-04 - Awesome list of embedded programming resources.
 * [intajay/open-electronics](https://github.com/intajay/open-electronics) ⭐ 742 | 🐛 2 | 📅 2024-12-22 - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
 * [cajt/list\_of\_robot\_electronics](https://github.com/cajt/list_of_robot_electronics) ⭐ 437 | 🐛 1 | 📅 2025-07-26 - A GitHub list of resources, projects and products for robot electronics.
 * [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) ⚠️ Archived - A list of cheap electronics from China, that you can use in your projects.
 * [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga) ⭐ 396 | 🐛 1 | 📅 2017-05-25 - Awesome list of FPGA resources.
 * [Awesome Lattice FPGAs](https://github.com/kelu124/awesome-latticeFPGAs) ⭐ 360 | 🐛 0 | 📅 2026-07-09 - A curated list of awesome open-source FPGA boards.
 * [upb-lea/awesome-open-source-power-electronics](https://github.com/upb-lea/awesome-open-source-power-electronics) ⭐ 351 | 🐛 0 | 📅 2026-03-10 - Open source software list specialized on power electronics.
-* [TM90/awesome-hwd-tools](https://github.com/TM90/awesome-hwd-tools) ⭐ 90 | 🐛 0 | 📅 2025-06-20 - A curated list of hardware design tools with a focus on chip design.
+* [TM90/awesome-hwd-tools](https://github.com/TM90/awesome-hwd-tools) ⭐ 91 | 🐛 0 | 📅 2025-06-20 - A curated list of hardware design tools with a focus on chip design.
 * [PCB/EDA software list on the EEVblog forums](https://www.eevblog.com/forum/eda/pcbeda-software-list/) - A much more comprehensive list of all the software tools available.
 * [TCAD Central](https://tcadcentral.com/Software.html) - List of Technology CAD (TCAD) software and resources from the maker of DEVSIM.
 

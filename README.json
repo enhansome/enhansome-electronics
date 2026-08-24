@@ -4,6 +4,76 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Inkscape Electric Symbols",
+          "description": "Circuit Drawing Symbols for Inkscape",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 249637275,
+            "language": null,
+            "last_commit": "2026-02-08T10:03:59Z",
+            "owner": "upb-lea",
+            "repo": "Inkscape_electric_Symbols",
+            "stars": 563
+          }
+        }
+      ],
+      "title": "Documentation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GeckoCIRCUITS",
+              "description": "Open Source Power Electronic Circuit Simulator. GitHub Project. Direct download link due to broken website.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 381150669,
+                "language": "Java",
+                "last_commit": "2026-02-23T18:24:48Z",
+                "owner": "geckocircuits",
+                "repo": "GeckoCIRCUITS",
+                "stars": 86
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Analog and Mixed Signal Circuit Simulators"
+        }
+      ],
+      "title": "Simulators"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Horizon EDA",
+          "description": "A free and open source EDA tool with the focus on shortcut operation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 80365771,
+            "language": "C",
+            "last_commit": "2026-07-28T21:09:37Z",
+            "owner": "horizon-eda",
+            "repo": "horizon",
+            "stars": 1310
+          }
+        }
+      ],
+      "title": "Free EDA Packages"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "node_type": "item",
@@ -130,6 +200,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Part-DB",
+          "description": "Another open source web service for managing part inventory with a permission system and a good barcode generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 72228780,
+            "language": "JavaScript",
+            "last_commit": "2024-04-15T18:16:36Z",
+            "owner": "Part-DB",
+            "repo": "Part-DB-legacy",
+            "stars": 166
+          }
+        }
+      ],
+      "title": "Inventory Management and Purchasing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Language PCB",
+          "description": "Syntax highlighting for various PCB formats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 98567824,
+            "language": null,
+            "last_commit": "2022-02-10T10:25:39Z",
+            "owner": "Alhadis",
+            "repo": "language-pcb",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Miscellaneous Software Projects"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "delftopenhardware/awesome-open-hardware",
           "description": "Helpful items for making and learning about open source hardware projects.",
           "children": [],
@@ -155,7 +267,7 @@
             "last_commit": "2024-01-04T03:35:24Z",
             "owner": "embedded-boston",
             "repo": "awesome-embedded-systems",
-            "stars": 1007
+            "stars": 1008
           }
         },
         {
@@ -260,7 +372,7 @@
             "last_commit": "2025-06-20T13:22:17Z",
             "owner": "TM90",
             "repo": "awesome-hwd-tools",
-            "stars": 90
+            "stars": 91
           }
         }
       ],
@@ -268,7 +380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:39:25.097Z",
+    "last_updated": "2026-08-24T13:53:36.065Z",
     "original_repository": "kitspace/awesome-electronics",
     "original_repository_id": 64177015,
     "original_repository_sha": "fbecbedf01155d04f64ff686c4881bd1960d8467",
