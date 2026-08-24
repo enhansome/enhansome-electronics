@@ -17,7 +17,7 @@
                 "last_commit": "2024-07-02T01:32:39Z",
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4934
+                "stars": 4938
               }
             },
             {
@@ -215,7 +215,7 @@
             "last_commit": "2017-05-25T21:45:38Z",
             "owner": "Vitorian",
             "repo": "awesome-fpga",
-            "stars": 395
+            "stars": 396
           }
         },
         {
@@ -268,7 +268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T03:36:21.065Z",
+    "last_updated": "2026-08-24T03:39:25.097Z",
     "original_repository": "kitspace/awesome-electronics",
     "original_repository_id": 64177015,
     "original_repository_sha": "fbecbedf01155d04f64ff686c4881bd1960d8467",
