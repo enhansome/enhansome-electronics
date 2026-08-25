@@ -102,7 +102,7 @@
                 "last_commit": "2026-07-12T01:14:05Z",
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4528
+                "stars": 4529
               }
             },
             {
@@ -129,7 +129,7 @@
                 "archived": false,
                 "id": 246344800,
                 "language": "Python",
-                "last_commit": "2026-08-21T16:08:06Z",
+                "last_commit": "2026-08-24T18:04:55Z",
                 "owner": "INTI-CMNB",
                 "repo": "KiBot",
                 "stars": 732
@@ -267,7 +267,7 @@
             "last_commit": "2024-01-04T03:35:24Z",
             "owner": "embedded-boston",
             "repo": "awesome-embedded-systems",
-            "stars": 1008
+            "stars": 1009
           }
         },
         {
@@ -282,7 +282,7 @@
             "last_commit": "2024-12-22T18:40:08Z",
             "owner": "ajaymnk",
             "repo": "open-electronics",
-            "stars": 742
+            "stars": 743
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2026-03-10T09:04:56Z",
             "owner": "upb-lea",
             "repo": "awesome-open-source-power-electronics",
-            "stars": 351
+            "stars": 353
           }
         },
         {
@@ -380,7 +380,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:53:36.065Z",
+    "last_updated": "2026-08-25T03:32:50.221Z",
     "original_repository": "kitspace/awesome-electronics",
     "original_repository_id": 64177015,
     "original_repository_sha": "fbecbedf01155d04f64ff686c4881bd1960d8467",
