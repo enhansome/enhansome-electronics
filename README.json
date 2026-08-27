@@ -87,7 +87,7 @@
                 "last_commit": "2024-07-02T01:32:39Z",
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4939
+                "stars": 4941
               }
             },
             {
@@ -102,7 +102,7 @@
                 "last_commit": "2026-07-12T01:14:05Z",
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4531
+                "stars": 4533
               }
             },
             {
@@ -129,10 +129,10 @@
                 "archived": false,
                 "id": 246344800,
                 "language": "Python",
-                "last_commit": "2026-08-24T18:04:55Z",
+                "last_commit": "2026-08-27T10:57:59Z",
                 "owner": "INTI-CMNB",
                 "repo": "KiBot",
-                "stars": 733
+                "stars": 734
               }
             },
             {
@@ -249,10 +249,10 @@
             "archived": false,
             "id": 441230859,
             "language": null,
-            "last_commit": "2026-08-20T11:41:28Z",
+            "last_commit": "2026-08-27T07:38:09Z",
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1033
+            "stars": 1035
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2024-01-04T03:35:24Z",
             "owner": "embedded-boston",
             "repo": "awesome-embedded-systems",
-            "stars": 1010
+            "stars": 1011
           }
         },
         {
@@ -380,9 +380,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:40:19.224Z",
-    "original_repository": "kitspace/awesome-electronics",
-    "original_repository_id": 64177015,
+    "last_updated": "2026-08-27T11:34:42.076Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 64177015,
+      "language": null,
+      "last_commit": "2026-01-05T18:43:02Z",
+      "owner": "kitspace",
+      "repo": "awesome-electronics",
+      "stars": 8068
+    },
     "original_repository_sha": "fbecbedf01155d04f64ff686c4881bd1960d8467",
     "enhanced_repository": "enhansome/enhansome-electronics",
     "enhanced_repository_description": null,
