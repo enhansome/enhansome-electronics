@@ -16,7 +16,8 @@
             "owner": "upb-lea",
             "repo": "Inkscape_electric_Symbols",
             "stars": 564
-          }
+          },
+          "first_seen": "2026-08-28T14:36:09.822Z"
         }
       ],
       "title": "Documentation"
@@ -39,7 +40,8 @@
                 "owner": "geckocircuits",
                 "repo": "GeckoCIRCUITS",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T14:36:09.822Z"
             }
           ],
           "description": null,
@@ -65,7 +67,8 @@
             "owner": "horizon-eda",
             "repo": "horizon",
             "stars": 1310
-          }
+          },
+          "first_seen": "2026-08-28T14:36:09.822Z"
         }
       ],
       "title": "Free EDA Packages"
@@ -88,7 +91,8 @@
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
                 "stars": 4941
-              }
+              },
+              "first_seen": "2026-08-28T14:36:09.822Z"
             },
             {
               "node_type": "item",
@@ -102,8 +106,9 @@
                 "last_commit": "2026-07-12T01:14:05Z",
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4533
-              }
+                "stars": 4534
+              },
+              "first_seen": "2026-08-28T14:36:09.822Z"
             },
             {
               "node_type": "item",
@@ -118,7 +123,8 @@
                 "owner": "devbisme",
                 "repo": "kicad-3rd-party-tools",
                 "stars": 839
-              }
+              },
+              "first_seen": "2026-08-28T14:36:09.822Z"
             },
             {
               "node_type": "item",
@@ -129,11 +135,12 @@
                 "archived": false,
                 "id": 246344800,
                 "language": "Python",
-                "last_commit": "2026-08-27T13:03:09Z",
+                "last_commit": "2026-08-28T13:47:33Z",
                 "owner": "INTI-CMNB",
                 "repo": "KiBot",
                 "stars": 734
-              }
+              },
+              "first_seen": "2026-08-28T14:36:09.822Z"
             },
             {
               "node_type": "item",
@@ -148,7 +155,8 @@
                 "owner": "kitspace",
                 "repo": "kicad_footprints",
                 "stars": 368
-              }
+              },
+              "first_seen": "2026-08-28T14:36:09.822Z"
             }
           ],
           "description": null,
@@ -170,7 +178,8 @@
                 "owner": "sparkfun",
                 "repo": "SparkFun-Eagle-Libraries",
                 "stars": 1797
-              }
+              },
+              "first_seen": "2026-08-28T14:36:09.822Z"
             },
             {
               "node_type": "item",
@@ -185,7 +194,8 @@
                 "owner": "adafruit",
                 "repo": "Adafruit-Eagle-Library",
                 "stars": 1032
-              }
+              },
+              "first_seen": "2026-08-28T14:36:09.822Z"
             }
           ],
           "description": null,
@@ -211,7 +221,8 @@
             "owner": "Part-DB",
             "repo": "Part-DB-legacy",
             "stars": 166
-          }
+          },
+          "first_seen": "2026-08-28T14:36:09.822Z"
         }
       ],
       "title": "Inventory Management and Purchasing"
@@ -232,7 +243,8 @@
             "owner": "Alhadis",
             "repo": "language-pcb",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T14:36:09.822Z"
         }
       ],
       "title": "Miscellaneous Software Projects"
@@ -252,8 +264,9 @@
             "last_commit": "2026-08-27T07:38:09Z",
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1035
-          }
+            "stars": 1037
+          },
+          "first_seen": "2026-08-28T14:36:09.822Z"
         },
         {
           "node_type": "item",
@@ -268,7 +281,8 @@
             "owner": "embedded-boston",
             "repo": "awesome-embedded-systems",
             "stars": 1011
-          }
+          },
+          "first_seen": "2026-08-28T14:36:09.822Z"
         },
         {
           "node_type": "item",
@@ -283,7 +297,8 @@
             "owner": "ajaymnk",
             "repo": "open-electronics",
             "stars": 743
-          }
+          },
+          "first_seen": "2026-08-28T14:36:09.822Z"
         },
         {
           "node_type": "item",
@@ -298,7 +313,8 @@
             "owner": "cajt",
             "repo": "list_of_robot_electronics",
             "stars": 437
-          }
+          },
+          "first_seen": "2026-08-28T14:36:09.822Z"
         },
         {
           "node_type": "item",
@@ -313,7 +329,8 @@
             "owner": "0xjmux",
             "repo": "InsanelyCheapElectronics",
             "stars": 397
-          }
+          },
+          "first_seen": "2026-08-28T14:36:09.822Z"
         },
         {
           "node_type": "item",
@@ -328,7 +345,8 @@
             "owner": "Vitorian",
             "repo": "awesome-fpga",
             "stars": 397
-          }
+          },
+          "first_seen": "2026-08-28T14:36:09.822Z"
         },
         {
           "node_type": "item",
@@ -343,7 +361,8 @@
             "owner": "kelu124",
             "repo": "awesome-latticeFPGAs",
             "stars": 360
-          }
+          },
+          "first_seen": "2026-08-28T14:36:09.822Z"
         },
         {
           "node_type": "item",
@@ -358,7 +377,8 @@
             "owner": "upb-lea",
             "repo": "awesome-open-source-power-electronics",
             "stars": 355
-          }
+          },
+          "first_seen": "2026-08-28T14:36:09.822Z"
         },
         {
           "node_type": "item",
@@ -373,14 +393,15 @@
             "owner": "TM90",
             "repo": "awesome-hwd-tools",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T14:36:09.822Z"
         }
       ],
       "title": "Other Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T13:06:30.946Z",
+    "last_updated": "2026-08-28T14:36:09.822Z",
     "original_repository_info": {
       "archived": false,
       "id": 64177015,
@@ -388,7 +409,7 @@
       "last_commit": "2026-01-05T18:43:02Z",
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8068
+      "stars": 8070
     },
     "original_repository_sha": "fbecbedf01155d04f64ff686c4881bd1960d8467",
     "enhanced_repository": "enhansome/enhansome-electronics",
