@@ -121,7 +121,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Free EDA Packages
 
-* [Horizon EDA](https://github.com/horizon-eda/horizon) ⭐ 1,310 | 🐛 163 | 🌐 C | 📅 2026-07-28 - A free and open source EDA tool with the focus on shortcut operation.
+* [Horizon EDA](https://github.com/horizon-eda/horizon) ⭐ 1,311 | 🐛 162 | 🌐 C | 📅 2026-08-28 - A free and open source EDA tool with the focus on shortcut operation.
 * [KiCad](https://kicad.org/) - Open source EDA package with push and shove router, differential pairs and much more.
 * [Eagle](https://www.autodesk.com/products/eagle/overview) - One of the most popular EDA packages due to it's (board size restricted) free version.
 * [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software) - Gratis EDA package without restrictions, sponserd by RS Components.
@@ -140,8 +140,8 @@ This list is for websites, services, software, tools and more: everything that y
 
 ### KiCad
 
-* [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) ⭐ 4,941 | 🐛 22 | 📅 2024-07-02 -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
-* [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) ⭐ 4,534 | 🐛 42 | 🌐 Python | 📅 2026-07-12 - A html BOM generation tool for manual pick and place.
+* [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) ⭐ 4,943 | 🐛 22 | 📅 2024-07-02 -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
+* [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) ⭐ 4,536 | 🐛 42 | 🌐 Python | 📅 2026-07-12 - A html BOM generation tool for manual pick and place.
 * [Xesscorp's list of KiCad 3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools) ⭐ 839 | 🐛 4 | 📅 2026-05-15
 * [KiBot](https://github.com/INTI-CMNB/KiBot) ⭐ 734 | 🐛 27 | 🌐 Python | 📅 2026-08-28 - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
 * [Footprint Collection](https://github.com/kitspace/kicad_footprints) ⭐ 368 | 🐛 4 | 🌐 Python | 📅 2023-01-25 - Collection of all the KiCad footprints available online and some scripts to manage them.
@@ -272,7 +272,7 @@ This list is for websites, services, software, tools and more: everything that y
 ## Other Lists
 
 * [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) ⭐ 1,037 | 🐛 1 | 📅 2026-08-27 - Helpful items for making and learning about open source hardware projects.
-* [embedded-boston/awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems) ⭐ 1,011 | 🐛 8 | 📅 2024-01-04 - Awesome list of embedded programming resources.
+* [embedded-boston/awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems) ⭐ 1,012 | 🐛 8 | 📅 2024-01-04 - Awesome list of embedded programming resources.
 * [intajay/open-electronics](https://github.com/intajay/open-electronics) ⭐ 743 | 🐛 2 | 📅 2024-12-22 - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
 * [cajt/list\_of\_robot\_electronics](https://github.com/cajt/list_of_robot_electronics) ⭐ 437 | 🐛 1 | 📅 2025-07-26 - A GitHub list of resources, projects and products for robot electronics.
 * [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) ⚠️ Archived - A list of cheap electronics from China, that you can use in your projects.
@@ -292,4 +292,4 @@ This list is for websites, services, software, tools and more: everything that y
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
