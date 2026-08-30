@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "upb-lea",
             "repo": "Inkscape_electric_Symbols",
-            "stars": 564,
+            "stars": 565,
             "topics": [
               "electric-circuits",
               "electrical-circuits",
@@ -136,10 +136,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-07-12T01:14:05Z",
-                "open_issues": 42,
+                "open_issues": 43,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4537,
+                "stars": 4538,
                 "topics": [
                   "action-plugin",
                   "bom-tool",
@@ -381,10 +381,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-27T07:38:09Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1038,
+            "stars": 1039,
             "topics": [
               "awesome",
               "awesome-list",
@@ -411,7 +411,7 @@
             "open_issues": 8,
             "owner": "embedded-boston",
             "repo": "awesome-embedded-systems",
-            "stars": 1012,
+            "stars": 1013,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:09.822Z"
@@ -432,7 +432,7 @@
             "open_issues": 2,
             "owner": "ajaymnk",
             "repo": "open-electronics",
-            "stars": 744,
+            "stars": 747,
             "topics": [
               "build",
               "circuit",
@@ -572,10 +572,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-03-10T09:04:56Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "upb-lea",
             "repo": "awesome-open-source-power-electronics",
-            "stars": 355,
+            "stars": 357,
             "topics": [
               "awesome-lists",
               "open-source",
@@ -616,7 +616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T09:23:29.492Z",
+    "last_updated": "2026-08-30T08:32:57.618Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -625,10 +625,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-01-05T18:43:02Z",
-      "open_issues": 32,
+      "open_issues": 34,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8074,
+      "stars": 8077,
       "topics": [
         "altium",
         "awesome",
