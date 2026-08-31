@@ -89,7 +89,7 @@
             "open_issues": 162,
             "owner": "horizon-eda",
             "repo": "horizon",
-            "stars": 1311,
+            "stars": 1312,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:09.822Z"
@@ -118,7 +118,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4943,
+                "stars": 4945,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:09.822Z"
@@ -139,7 +139,7 @@
                 "open_issues": 43,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4538,
+                "stars": 4541,
                 "topics": [
                   "action-plugin",
                   "bom-tool",
@@ -166,7 +166,7 @@
                 "open_issues": 4,
                 "owner": "devbisme",
                 "repo": "kicad-3rd-party-tools",
-                "stars": 839,
+                "stars": 840,
                 "topics": [
                   "bom",
                   "kicad-footprints",
@@ -226,7 +226,7 @@
                 "open_issues": 4,
                 "owner": "kitspace",
                 "repo": "kicad_footprints",
-                "stars": 368,
+                "stars": 370,
                 "topics": [
                   "electronics",
                   "kicad",
@@ -259,7 +259,7 @@
                 "open_issues": 10,
                 "owner": "sparkfun",
                 "repo": "SparkFun-Eagle-Libraries",
-                "stars": 1797,
+                "stars": 1798,
                 "topics": [
                   "eagle-cad",
                   "eagle-library",
@@ -380,11 +380,11 @@
             "id": 441230859,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-08-27T07:38:09Z",
-            "open_issues": 2,
+            "last_commit": "2026-08-31T08:28:54Z",
+            "open_issues": 1,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1039,
+            "stars": 1041,
             "topics": [
               "awesome",
               "awesome-list",
@@ -432,7 +432,7 @@
             "open_issues": 2,
             "owner": "ajaymnk",
             "repo": "open-electronics",
-            "stars": 747,
+            "stars": 748,
             "topics": [
               "build",
               "circuit",
@@ -575,7 +575,7 @@
             "open_issues": 1,
             "owner": "upb-lea",
             "repo": "awesome-open-source-power-electronics",
-            "stars": 357,
+            "stars": 359,
             "topics": [
               "awesome-lists",
               "open-source",
@@ -616,7 +616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T08:32:57.618Z",
+    "last_updated": "2026-08-31T08:54:53.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -628,7 +628,7 @@
       "open_issues": 34,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8077,
+      "stars": 8084,
       "topics": [
         "altium",
         "awesome",
