@@ -57,7 +57,7 @@
                 "open_issues": 14,
                 "owner": "geckocircuits",
                 "repo": "GeckoCIRCUITS",
-                "stars": 86,
+                "stars": 87,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:09.822Z"
@@ -118,7 +118,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4945,
+                "stars": 4946,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:09.822Z"
@@ -139,7 +139,7 @@
                 "open_issues": 43,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4541,
+                "stars": 4542,
                 "topics": [
                   "action-plugin",
                   "bom-tool",
@@ -226,7 +226,7 @@
                 "open_issues": 4,
                 "owner": "kitspace",
                 "repo": "kicad_footprints",
-                "stars": 370,
+                "stars": 371,
                 "topics": [
                   "electronics",
                   "kicad",
@@ -259,7 +259,7 @@
                 "open_issues": 10,
                 "owner": "sparkfun",
                 "repo": "SparkFun-Eagle-Libraries",
-                "stars": 1798,
+                "stars": 1799,
                 "topics": [
                   "eagle-cad",
                   "eagle-library",
@@ -284,7 +284,7 @@
                 "open_issues": 34,
                 "owner": "adafruit",
                 "repo": "Adafruit-Eagle-Library",
-                "stars": 1032,
+                "stars": 1033,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:09.822Z"
@@ -485,6 +485,27 @@
         },
         {
           "node_type": "item",
+          "title": "Vitorian/awesome-fpga",
+          "description": "Awesome list of FPGA resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A collection of resources on FPGA devices and development in general",
+            "homepage": null,
+            "id": 61965054,
+            "language": null,
+            "license": "GPL-3.0",
+            "last_commit": "2017-05-25T21:45:38Z",
+            "open_issues": 1,
+            "owner": "Vitorian",
+            "repo": "awesome-fpga",
+            "stars": 398,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T14:36:09.822Z"
+        },
+        {
+          "node_type": "item",
           "title": "PwnKitteh/InsanelyCheapElectronics",
           "description": "A list of cheap electronics from China, that you can use in your projects.",
           "children": [],
@@ -513,27 +534,6 @@
         },
         {
           "node_type": "item",
-          "title": "Vitorian/awesome-fpga",
-          "description": "Awesome list of FPGA resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A collection of resources on FPGA devices and development in general",
-            "homepage": null,
-            "id": 61965054,
-            "language": null,
-            "license": "GPL-3.0",
-            "last_commit": "2017-05-25T21:45:38Z",
-            "open_issues": 1,
-            "owner": "Vitorian",
-            "repo": "awesome-fpga",
-            "stars": 397,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:36:09.822Z"
-        },
-        {
-          "node_type": "item",
           "title": "Awesome Lattice FPGAs",
           "description": "A curated list of awesome open-source FPGA boards.",
           "children": [],
@@ -548,7 +548,7 @@
             "open_issues": 0,
             "owner": "kelu124",
             "repo": "awesome-latticeFPGAs",
-            "stars": 360,
+            "stars": 361,
             "topics": [
               "awesome",
               "awesome-list",
@@ -575,7 +575,7 @@
             "open_issues": 1,
             "owner": "upb-lea",
             "repo": "awesome-open-source-power-electronics",
-            "stars": 359,
+            "stars": 360,
             "topics": [
               "awesome-lists",
               "open-source",
@@ -616,7 +616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T08:54:53.833Z",
+    "last_updated": "2026-09-01T07:59:14.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -628,7 +628,7 @@
       "open_issues": 34,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8084,
+      "stars": 8087,
       "topics": [
         "altium",
         "awesome",
