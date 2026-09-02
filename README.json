@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "upb-lea",
             "repo": "Inkscape_electric_Symbols",
-            "stars": 565,
+            "stars": 566,
             "topics": [
               "electric-circuits",
               "electrical-circuits",
@@ -139,7 +139,7 @@
                 "open_issues": 43,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4542,
+                "stars": 4544,
                 "topics": [
                   "action-plugin",
                   "bom-tool",
@@ -191,11 +191,11 @@
                 "id": 246344800,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-28T16:11:07Z",
+                "last_commit": "2026-09-01T13:57:34Z",
                 "open_issues": 27,
                 "owner": "INTI-CMNB",
                 "repo": "KiBot",
-                "stars": 734,
+                "stars": 735,
                 "topics": [
                   "3d-models",
                   "automation",
@@ -259,7 +259,7 @@
                 "open_issues": 10,
                 "owner": "sparkfun",
                 "repo": "SparkFun-Eagle-Libraries",
-                "stars": 1799,
+                "stars": 1800,
                 "topics": [
                   "eagle-cad",
                   "eagle-library",
@@ -316,7 +316,7 @@
             "open_issues": 36,
             "owner": "Part-DB",
             "repo": "Part-DB-legacy",
-            "stars": 166,
+            "stars": 167,
             "topics": [
               "db",
               "electronics",
@@ -384,7 +384,7 @@
             "open_issues": 1,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1041,
+            "stars": 1042,
             "topics": [
               "awesome",
               "awesome-list",
@@ -496,7 +496,7 @@
             "language": null,
             "license": "GPL-3.0",
             "last_commit": "2017-05-25T21:45:38Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "Vitorian",
             "repo": "awesome-fpga",
             "stars": 398,
@@ -571,8 +571,8 @@
             "id": 438586397,
             "language": null,
             "license": null,
-            "last_commit": "2026-03-10T09:04:56Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-01T11:17:07Z",
+            "open_issues": 0,
             "owner": "upb-lea",
             "repo": "awesome-open-source-power-electronics",
             "stars": 360,
@@ -616,7 +616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T07:59:14.933Z",
+    "last_updated": "2026-09-02T07:20:03.507Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -628,7 +628,7 @@
       "open_issues": 34,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8087,
+      "stars": 8092,
       "topics": [
         "altium",
         "awesome",
