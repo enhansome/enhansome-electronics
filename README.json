@@ -118,7 +118,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4946,
+                "stars": 4948,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:09.822Z"
@@ -135,11 +135,11 @@
                 "id": 142263436,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-07-12T01:14:05Z",
+                "last_commit": "2026-09-02T23:34:14Z",
                 "open_issues": 43,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4544,
+                "stars": 4545,
                 "topics": [
                   "action-plugin",
                   "bom-tool",
@@ -166,7 +166,7 @@
                 "open_issues": 4,
                 "owner": "devbisme",
                 "repo": "kicad-3rd-party-tools",
-                "stars": 840,
+                "stars": 841,
                 "topics": [
                   "bom",
                   "kicad-footprints",
@@ -191,7 +191,7 @@
                 "id": 246344800,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-01T13:57:34Z",
+                "last_commit": "2026-09-02T14:39:42Z",
                 "open_issues": 27,
                 "owner": "INTI-CMNB",
                 "repo": "KiBot",
@@ -384,7 +384,7 @@
             "open_issues": 1,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1042,
+            "stars": 1044,
             "topics": [
               "awesome",
               "awesome-list",
@@ -411,7 +411,7 @@
             "open_issues": 8,
             "owner": "embedded-boston",
             "repo": "awesome-embedded-systems",
-            "stars": 1013,
+            "stars": 1014,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:09.822Z"
@@ -616,7 +616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T07:20:03.507Z",
+    "last_updated": "2026-09-03T07:23:12.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
