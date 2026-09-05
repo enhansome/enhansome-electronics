@@ -118,7 +118,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4949,
+                "stars": 4950,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:09.822Z"
@@ -139,7 +139,7 @@
                 "open_issues": 43,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4548,
+                "stars": 4552,
                 "topics": [
                   "action-plugin",
                   "bom-tool",
@@ -191,11 +191,11 @@
                 "id": 246344800,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-03T16:50:30Z",
+                "last_commit": "2026-09-04T14:31:07Z",
                 "open_issues": 27,
                 "owner": "INTI-CMNB",
                 "repo": "KiBot",
-                "stars": 735,
+                "stars": 736,
                 "topics": [
                   "3d-models",
                   "automation",
@@ -384,7 +384,7 @@
             "open_issues": 1,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1045,
+            "stars": 1046,
             "topics": [
               "awesome",
               "awesome-list",
@@ -548,7 +548,7 @@
             "open_issues": 0,
             "owner": "kelu124",
             "repo": "awesome-latticeFPGAs",
-            "stars": 361,
+            "stars": 362,
             "topics": [
               "awesome",
               "awesome-list",
@@ -616,7 +616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T07:25:30.760Z",
+    "last_updated": "2026-09-05T07:07:07.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -628,7 +628,7 @@
       "open_issues": 34,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8092,
+      "stars": 8094,
       "topics": [
         "altium",
         "awesome",
