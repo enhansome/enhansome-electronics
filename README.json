@@ -89,7 +89,7 @@
             "open_issues": 162,
             "owner": "horizon-eda",
             "repo": "horizon",
-            "stars": 1314,
+            "stars": 1315,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:09.822Z"
@@ -118,7 +118,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4951,
+                "stars": 4952,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:09.822Z"
@@ -136,7 +136,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-02T23:34:14Z",
-                "open_issues": 43,
+                "open_issues": 44,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
                 "stars": 4557,
@@ -191,11 +191,11 @@
                 "id": 246344800,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-04T14:31:07Z",
-                "open_issues": 27,
+                "last_commit": "2026-09-07T16:58:09Z",
+                "open_issues": 28,
                 "owner": "INTI-CMNB",
                 "repo": "KiBot",
-                "stars": 737,
+                "stars": 739,
                 "topics": [
                   "3d-models",
                   "automation",
@@ -381,7 +381,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-31T08:28:54Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
             "stars": 1050,
@@ -432,7 +432,7 @@
             "open_issues": 2,
             "owner": "ajaymnk",
             "repo": "open-electronics",
-            "stars": 748,
+            "stars": 749,
             "topics": [
               "build",
               "circuit",
@@ -470,7 +470,7 @@
             "open_issues": 1,
             "owner": "cajt",
             "repo": "list_of_robot_electronics",
-            "stars": 440,
+            "stars": 444,
             "topics": [
               "bot",
               "curated-list",
@@ -499,7 +499,7 @@
             "open_issues": 2,
             "owner": "Vitorian",
             "repo": "awesome-fpga",
-            "stars": 399,
+            "stars": 400,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:09.822Z"
@@ -616,7 +616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T07:33:12.234Z",
+    "last_updated": "2026-09-08T07:26:43.677Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -628,7 +628,7 @@
       "open_issues": 34,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8096,
+      "stars": 8098,
       "topics": [
         "altium",
         "awesome",
