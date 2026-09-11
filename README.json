@@ -85,8 +85,8 @@
             "id": 80365771,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-09T22:42:45Z",
-            "open_issues": 164,
+            "last_commit": "2026-09-10T19:56:58Z",
+            "open_issues": 166,
             "owner": "horizon-eda",
             "repo": "horizon",
             "stars": 1315,
@@ -118,7 +118,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4953,
+                "stars": 4954,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:09.822Z"
@@ -135,11 +135,11 @@
                 "id": 142263436,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-09T06:16:11Z",
+                "last_commit": "2026-09-10T22:42:43Z",
                 "open_issues": 43,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4563,
+                "stars": 4564,
                 "topics": [
                   "action-plugin",
                   "bom-tool",
@@ -381,10 +381,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-31T08:28:54Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1052,
+            "stars": 1056,
             "topics": [
               "awesome",
               "awesome-list",
@@ -616,7 +616,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T07:31:18.134Z",
+    "last_updated": "2026-09-11T07:29:09.381Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -628,7 +628,7 @@
       "open_issues": 33,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8100,
+      "stars": 8104,
       "topics": [
         "altium",
         "awesome",
