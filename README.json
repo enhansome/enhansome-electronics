@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "upb-lea",
             "repo": "Inkscape_electric_Symbols",
-            "stars": 571,
+            "stars": 570,
             "topics": [
               "electric-circuits",
               "electrical-circuits",
@@ -86,7 +86,7 @@
             "language": "C",
             "license": "GPL-3.0",
             "last_commit": "2026-09-13T21:25:23Z",
-            "open_issues": 166,
+            "open_issues": 167,
             "owner": "horizon-eda",
             "repo": "horizon",
             "stars": 1317,
@@ -118,7 +118,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4956,
+                "stars": 4957,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:09.822Z"
@@ -136,10 +136,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-10T22:42:43Z",
-                "open_issues": 44,
+                "open_issues": 43,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4566,
+                "stars": 4565,
                 "topics": [
                   "action-plugin",
                   "bom-tool",
@@ -235,6 +235,36 @@
                 ]
               },
               "first_seen": "2026-08-28T14:36:09.822Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome KiCad Projects",
+              "description": "Curated list of open source hardware projects whose PCBs are designed in KiCad.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "📔 📚 A curated list of Project Made with Kicad.",
+                "homepage": null,
+                "id": 1365813599,
+                "language": null,
+                "license": "CC-BY-4.0",
+                "last_commit": "2026-09-13T08:27:09Z",
+                "open_issues": 0,
+                "owner": "way2pramil",
+                "repo": "awesome-kicad-projects",
+                "stars": 111,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "kicad",
+                  "kicad-breakout-board",
+                  "kicad-pcb",
+                  "kicad-project",
+                  "kicad-schematics",
+                  "made-with-kicad"
+                ]
+              },
+              "first_seen": "2026-09-15T08:01:55.826Z"
             }
           ],
           "description": null,
@@ -384,7 +414,7 @@
             "open_issues": 4,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1062,
+            "stars": 1063,
             "topics": [
               "awesome",
               "awesome-list",
@@ -470,7 +500,7 @@
             "open_issues": 1,
             "owner": "cajt",
             "repo": "list_of_robot_electronics",
-            "stars": 446,
+            "stars": 447,
             "topics": [
               "bot",
               "curated-list",
@@ -616,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T08:07:22.049Z",
+    "last_updated": "2026-09-15T08:01:55.826Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -624,11 +654,11 @@
       "id": 64177015,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-01-05T18:43:02Z",
-      "open_issues": 34,
+      "last_commit": "2026-09-14T08:57:12Z",
+      "open_issues": 33,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8115,
+      "stars": 8121,
       "topics": [
         "altium",
         "awesome",
@@ -640,7 +670,7 @@
         "pcb"
       ]
     },
-    "original_repository_sha": "fbecbedf01155d04f64ff686c4881bd1960d8467",
+    "original_repository_sha": "9522f17da23bab2993d3e75f0f6ffcb60164f95d",
     "enhanced_repository": "enhansome/enhansome-electronics",
     "enhanced_repository_description": null,
     "title": "Awesome Electronics with stars"
