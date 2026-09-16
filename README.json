@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "upb-lea",
             "repo": "Inkscape_electric_Symbols",
-            "stars": 570,
+            "stars": 571,
             "topics": [
               "electric-circuits",
               "electrical-circuits",
@@ -85,8 +85,8 @@
             "id": 80365771,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-13T21:25:23Z",
-            "open_issues": 167,
+            "last_commit": "2026-09-15T22:00:41Z",
+            "open_issues": 166,
             "owner": "horizon-eda",
             "repo": "horizon",
             "stars": 1317,
@@ -118,7 +118,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4957,
+                "stars": 4958,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:09.822Z"
@@ -195,7 +195,7 @@
                 "open_issues": 25,
                 "owner": "INTI-CMNB",
                 "repo": "KiBot",
-                "stars": 739,
+                "stars": 740,
                 "topics": [
                   "3d-models",
                   "automation",
@@ -252,7 +252,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 111,
+                "stars": 121,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -414,7 +414,7 @@
             "open_issues": 4,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1063,
+            "stars": 1065,
             "topics": [
               "awesome",
               "awesome-list",
@@ -441,7 +441,7 @@
             "open_issues": 8,
             "owner": "embedded-boston",
             "repo": "awesome-embedded-systems",
-            "stars": 1017,
+            "stars": 1018,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:09.822Z"
@@ -578,7 +578,7 @@
             "open_issues": 1,
             "owner": "upb-lea",
             "repo": "awesome-open-source-power-electronics",
-            "stars": 363,
+            "stars": 364,
             "topics": [
               "awesome-lists",
               "open-source",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T08:01:55.826Z",
+    "last_updated": "2026-09-16T07:55:23.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -655,10 +655,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-14T08:57:12Z",
-      "open_issues": 33,
+      "open_issues": 34,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8121,
+      "stars": 8124,
       "topics": [
         "altium",
         "awesome",
