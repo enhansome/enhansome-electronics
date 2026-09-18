@@ -118,7 +118,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4959,
+                "stars": 4962,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:09.822Z"
@@ -139,7 +139,7 @@
                 "open_issues": 43,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4568,
+                "stars": 4569,
                 "topics": [
                   "action-plugin",
                   "bom-tool",
@@ -166,7 +166,7 @@
                 "open_issues": 4,
                 "owner": "devbisme",
                 "repo": "kicad-3rd-party-tools",
-                "stars": 841,
+                "stars": 842,
                 "topics": [
                   "bom",
                   "kicad-footprints",
@@ -246,13 +246,13 @@
                 "description": "📔 📚 A curated list of Project Made with Kicad.",
                 "homepage": null,
                 "id": 1365813599,
-                "language": null,
+                "language": "Python",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-09-13T08:27:09Z",
+                "last_commit": "2026-09-17T13:15:19Z",
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 124,
+                "stars": 152,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -343,7 +343,7 @@
             "language": "JavaScript",
             "license": "GPL-2.0",
             "last_commit": "2024-04-15T18:16:36Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "Part-DB",
             "repo": "Part-DB-legacy",
             "stars": 168,
@@ -458,8 +458,8 @@
             "id": 80423302,
             "language": null,
             "license": null,
-            "last_commit": "2024-12-22T18:40:08Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-17T18:10:24Z",
+            "open_issues": 0,
             "owner": "ajaymnk",
             "repo": "open-electronics",
             "stars": 751,
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T07:59:05.178Z",
+    "last_updated": "2026-09-18T07:37:39.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -658,7 +658,7 @@
       "open_issues": 35,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8127,
+      "stars": 8132,
       "topics": [
         "altium",
         "awesome",
