@@ -85,11 +85,11 @@
             "id": 80365771,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-15T22:00:41Z",
-            "open_issues": 168,
+            "last_commit": "2026-09-20T19:39:51Z",
+            "open_issues": 165,
             "owner": "horizon-eda",
             "repo": "horizon",
-            "stars": 1316,
+            "stars": 1318,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:09.822Z"
@@ -252,7 +252,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 165,
+                "stars": 169,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -414,7 +414,7 @@
             "open_issues": 7,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1066,
+            "stars": 1068,
             "topics": [
               "awesome",
               "awesome-list",
@@ -462,7 +462,7 @@
             "open_issues": 0,
             "owner": "ajaymnk",
             "repo": "open-electronics",
-            "stars": 749,
+            "stars": 750,
             "topics": [
               "build",
               "circuit",
@@ -500,7 +500,7 @@
             "open_issues": 1,
             "owner": "cajt",
             "repo": "list_of_robot_electronics",
-            "stars": 447,
+            "stars": 451,
             "topics": [
               "bot",
               "curated-list",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T07:55:54.390Z",
+    "last_updated": "2026-09-21T08:12:47.151Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -658,7 +658,7 @@
       "open_issues": 36,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8136,
+      "stars": 8144,
       "topics": [
         "altium",
         "awesome",
