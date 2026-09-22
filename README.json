@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "upb-lea",
             "repo": "Inkscape_electric_Symbols",
-            "stars": 572,
+            "stars": 573,
             "topics": [
               "electric-circuits",
               "electrical-circuits",
@@ -86,10 +86,10 @@
             "language": "C",
             "license": "GPL-3.0",
             "last_commit": "2026-09-20T19:39:51Z",
-            "open_issues": 165,
+            "open_issues": 166,
             "owner": "horizon-eda",
             "repo": "horizon",
-            "stars": 1318,
+            "stars": 1319,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:09.822Z"
@@ -252,7 +252,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 169,
+                "stars": 177,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -414,7 +414,7 @@
             "open_issues": 7,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1068,
+            "stars": 1069,
             "topics": [
               "awesome",
               "awesome-list",
@@ -462,7 +462,7 @@
             "open_issues": 0,
             "owner": "ajaymnk",
             "repo": "open-electronics",
-            "stars": 750,
+            "stars": 751,
             "topics": [
               "build",
               "circuit",
@@ -500,7 +500,7 @@
             "open_issues": 1,
             "owner": "cajt",
             "repo": "list_of_robot_electronics",
-            "stars": 451,
+            "stars": 454,
             "topics": [
               "bot",
               "curated-list",
@@ -599,7 +599,7 @@
             "id": 231812493,
             "language": null,
             "license": null,
-            "last_commit": "2026-07-09T19:00:55Z",
+            "last_commit": "2026-09-22T07:02:22Z",
             "open_issues": 0,
             "owner": "kelu124",
             "repo": "awesome-latticeFPGAs",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T08:12:47.151Z",
+    "last_updated": "2026-09-22T07:57:23.114Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -658,7 +658,7 @@
       "open_issues": 36,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8144,
+      "stars": 8148,
       "topics": [
         "altium",
         "awesome",

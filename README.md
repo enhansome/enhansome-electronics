@@ -71,7 +71,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Documentation
 
-* [Inkscape Electric Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) ⭐ 572 | 🐛 3 | 📅 2026-02-08 - Circuit Drawing Symbols for Inkscape
+* [Inkscape Electric Symbols](https://github.com/upb-lea/Inkscape_electric_Symbols) ⭐ 573 | 🐛 3 | 📅 2026-02-08 - Circuit Drawing Symbols for Inkscape
 * [Tabula](http://tabula.ondata.it/) - Extract tabular data from a pdf, very useful for extracting pin tables or part characteristics from datasheets.
 * [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer/) - Extract data from plots, charts, etc., very useful for getting part performance curves from datasheets.
 * [WaveDrom](https://wavedrom.com/) - Create waveforms and timing diagrams from a JSON description file.
@@ -121,7 +121,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Free EDA Packages
 
-* [Horizon EDA](https://github.com/horizon-eda/horizon) ⭐ 1,318 | 🐛 165 | 🌐 C | 📅 2026-09-20 - A free and open source EDA tool with the focus on shortcut operation.
+* [Horizon EDA](https://github.com/horizon-eda/horizon) ⭐ 1,319 | 🐛 166 | 🌐 C | 📅 2026-09-20 - A free and open source EDA tool with the focus on shortcut operation.
 * [KiCad](https://kicad.org/) - Open source EDA package with push and shove router, differential pairs and much more.
 * [Eagle](https://www.autodesk.com/products/eagle/overview) - One of the most popular EDA packages due to it's (board size restricted) free version.
 * [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software) - Gratis EDA package without restrictions, sponserd by RS Components.
@@ -145,7 +145,7 @@ This list is for websites, services, software, tools and more: everything that y
 * [Xesscorp's list of KiCad 3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools) ⭐ 842 | 🐛 4 | 📅 2026-05-15
 * [KiBot](https://github.com/INTI-CMNB/KiBot) ⭐ 743 | 🐛 25 | 🌐 Python | 📅 2026-09-11 - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
 * [Footprint Collection](https://github.com/kitspace/kicad_footprints) ⭐ 371 | 🐛 4 | 🌐 Python | 📅 2023-01-25 - Collection of all the KiCad footprints available online and some scripts to manage them.
-* [Awesome KiCad Projects](https://github.com/way2pramil/awesome-kicad-projects) ⭐ 169 | 🐛 0 | 🌐 Python | 📅 2026-09-17 - Curated list of open source hardware projects whose PCBs are designed in KiCad.
+* [Awesome KiCad Projects](https://github.com/way2pramil/awesome-kicad-projects) ⭐ 177 | 🐛 0 | 🌐 Python | 📅 2026-09-17 - Curated list of open source hardware projects whose PCBs are designed in KiCad.
 * [Contextual Electronics' Shine on You Crazy KiCad](https://contextualelectronics.com/courses/shine-on-you-crazy-kicad/) - Beginner video tutorial that gets you to a manufactured board as quickly as possible.
 * [Contextual Electronics' Getting to Blinky Tutorial](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q) - A more comprehensive beginner to intermediate video tutorial.
 * [KiCad.info Forums](https://forum.kicad.info) - User discussion and help forum.
@@ -272,14 +272,14 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Other Lists
 
-* [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) ⭐ 1,068 | 🐛 7 | 📅 2026-08-31 - Helpful items for making and learning about open source hardware projects.
+* [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) ⭐ 1,069 | 🐛 7 | 📅 2026-08-31 - Helpful items for making and learning about open source hardware projects.
 * [embedded-boston/awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems) ⭐ 1,018 | 🐛 8 | 📅 2024-01-04 - Awesome list of embedded programming resources.
-* [intajay/open-electronics](https://github.com/intajay/open-electronics) ⭐ 750 | 🐛 0 | 📅 2026-09-17 - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
-* [cajt/list\_of\_robot\_electronics](https://github.com/cajt/list_of_robot_electronics) ⭐ 451 | 🐛 1 | 📅 2025-07-26 - A GitHub list of resources, projects and products for robot electronics.
+* [intajay/open-electronics](https://github.com/intajay/open-electronics) ⭐ 751 | 🐛 0 | 📅 2026-09-17 - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
+* [cajt/list\_of\_robot\_electronics](https://github.com/cajt/list_of_robot_electronics) ⭐ 454 | 🐛 1 | 📅 2025-07-26 - A GitHub list of resources, projects and products for robot electronics.
 * [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga) ⭐ 400 | 🐛 3 | 📅 2017-05-25 - Awesome list of FPGA resources.
 * [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) ⚠️ Archived - A list of cheap electronics from China, that you can use in your projects.
 * [upb-lea/awesome-open-source-power-electronics](https://github.com/upb-lea/awesome-open-source-power-electronics) ⭐ 366 | 🐛 1 | 📅 2026-09-01 - Open source software list specialized on power electronics.
-* [Awesome Lattice FPGAs](https://github.com/kelu124/awesome-latticeFPGAs) ⭐ 362 | 🐛 0 | 📅 2026-07-09 - A curated list of awesome open-source FPGA boards.
+* [Awesome Lattice FPGAs](https://github.com/kelu124/awesome-latticeFPGAs) ⭐ 362 | 🐛 0 | 📅 2026-09-22 - A curated list of awesome open-source FPGA boards.
 * [TM90/awesome-hwd-tools](https://github.com/TM90/awesome-hwd-tools) ⭐ 91 | 🐛 0 | 📅 2025-06-20 - A curated list of hardware design tools with a focus on chip design.
 * [PCB/EDA software list on the EEVblog forums](https://www.eevblog.com/forum/eda/pcbeda-software-list/) - A much more comprehensive list of all the software tools available.
 * [TCAD Central](https://tcadcentral.com/Software.html) - List of Technology CAD (TCAD) software and resources from the maker of DEVSIM.
@@ -293,4 +293,4 @@ This list is for websites, services, software, tools and more: everything that y
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
