@@ -118,7 +118,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4962,
+                "stars": 4964,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:09.822Z"
@@ -226,7 +226,7 @@
                 "open_issues": 4,
                 "owner": "kitspace",
                 "repo": "kicad_footprints",
-                "stars": 371,
+                "stars": 372,
                 "topics": [
                   "electronics",
                   "kicad",
@@ -414,7 +414,7 @@
             "open_issues": 7,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1073,
+            "stars": 1072,
             "topics": [
               "awesome",
               "awesome-list",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T07:49:39.430Z",
+    "last_updated": "2026-09-25T08:11:43.330Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -655,10 +655,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-14T08:57:12Z",
-      "open_issues": 36,
+      "open_issues": 37,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8156,
+      "stars": 8158,
       "topics": [
         "altium",
         "awesome",

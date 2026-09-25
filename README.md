@@ -140,11 +140,11 @@ This list is for websites, services, software, tools and more: everything that y
 
 ### KiCad
 
-* [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) ⭐ 4,962 | 🐛 22 | 📅 2024-07-02 -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
+* [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) ⭐ 4,964 | 🐛 22 | 📅 2024-07-02 -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
 * [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) ⭐ 4,576 | 🐛 43 | 🌐 Python | 📅 2026-09-10 - A html BOM generation tool for manual pick and place.
 * [Xesscorp's list of KiCad 3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools) ⭐ 842 | 🐛 4 | 📅 2026-05-15
 * [KiBot](https://github.com/INTI-CMNB/KiBot) ⭐ 744 | 🐛 26 | 🌐 Python | 📅 2026-09-23 - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
-* [Footprint Collection](https://github.com/kitspace/kicad_footprints) ⭐ 371 | 🐛 4 | 🌐 Python | 📅 2023-01-25 - Collection of all the KiCad footprints available online and some scripts to manage them.
+* [Footprint Collection](https://github.com/kitspace/kicad_footprints) ⭐ 372 | 🐛 4 | 🌐 Python | 📅 2023-01-25 - Collection of all the KiCad footprints available online and some scripts to manage them.
 * [Awesome KiCad Projects](https://github.com/way2pramil/awesome-kicad-projects) ⭐ 181 | 🐛 0 | 🌐 Python | 📅 2026-09-17 - Curated list of open source hardware projects whose PCBs are designed in KiCad.
 * [Contextual Electronics' Shine on You Crazy KiCad](https://contextualelectronics.com/courses/shine-on-you-crazy-kicad/) - Beginner video tutorial that gets you to a manufactured board as quickly as possible.
 * [Contextual Electronics' Getting to Blinky Tutorial](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q) - A more comprehensive beginner to intermediate video tutorial.
@@ -272,7 +272,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Other Lists
 
-* [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) ⭐ 1,073 | 🐛 7 | 📅 2026-08-31 - Helpful items for making and learning about open source hardware projects.
+* [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) ⭐ 1,072 | 🐛 7 | 📅 2026-08-31 - Helpful items for making and learning about open source hardware projects.
 * [embedded-boston/awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems) ⭐ 1,018 | 🐛 8 | 📅 2024-01-04 - Awesome list of embedded programming resources.
 * [intajay/open-electronics](https://github.com/intajay/open-electronics) ⭐ 752 | 🐛 0 | 📅 2026-09-17 - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
 * [cajt/list\_of\_robot\_electronics](https://github.com/cajt/list_of_robot_electronics) ⭐ 455 | 🐛 1 | 📅 2025-07-26 - A GitHub list of resources, projects and products for robot electronics.
@@ -293,4 +293,4 @@ This list is for websites, services, software, tools and more: everything that y
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
