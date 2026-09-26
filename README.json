@@ -85,7 +85,7 @@
             "id": 80365771,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-23T20:41:52Z",
+            "last_commit": "2026-09-25T14:02:52Z",
             "open_issues": 165,
             "owner": "horizon-eda",
             "repo": "horizon",
@@ -139,7 +139,7 @@
                 "open_issues": 43,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4576,
+                "stars": 4577,
                 "topics": [
                   "action-plugin",
                   "bom-tool",
@@ -191,8 +191,8 @@
                 "id": 246344800,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-23T13:55:18Z",
-                "open_issues": 26,
+                "last_commit": "2026-09-25T13:23:52Z",
+                "open_issues": 25,
                 "owner": "INTI-CMNB",
                 "repo": "KiBot",
                 "stars": 744,
@@ -252,7 +252,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 181,
+                "stars": 184,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -414,7 +414,7 @@
             "open_issues": 7,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1072,
+            "stars": 1076,
             "topics": [
               "awesome",
               "awesome-list",
@@ -441,7 +441,7 @@
             "open_issues": 8,
             "owner": "embedded-boston",
             "repo": "awesome-embedded-systems",
-            "stars": 1018,
+            "stars": 1019,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:09.822Z"
@@ -462,7 +462,7 @@
             "open_issues": 0,
             "owner": "ajaymnk",
             "repo": "open-electronics",
-            "stars": 752,
+            "stars": 753,
             "topics": [
               "build",
               "circuit",
@@ -599,7 +599,7 @@
             "id": 231812493,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-22T07:02:22Z",
+            "last_commit": "2026-09-25T15:51:37Z",
             "open_issues": 0,
             "owner": "kelu124",
             "repo": "awesome-latticeFPGAs",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T08:11:43.330Z",
+    "last_updated": "2026-09-26T08:00:45.076Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -658,7 +658,7 @@
       "open_issues": 37,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8158,
+      "stars": 8163,
       "topics": [
         "altium",
         "awesome",
