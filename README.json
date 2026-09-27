@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "upb-lea",
             "repo": "Inkscape_electric_Symbols",
-            "stars": 574,
+            "stars": 575,
             "topics": [
               "electric-circuits",
               "electrical-circuits",
@@ -118,7 +118,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4964,
+                "stars": 4965,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:09.822Z"
@@ -139,7 +139,7 @@
                 "open_issues": 43,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4577,
+                "stars": 4579,
                 "topics": [
                   "action-plugin",
                   "bom-tool",
@@ -226,7 +226,7 @@
                 "open_issues": 4,
                 "owner": "kitspace",
                 "repo": "kicad_footprints",
-                "stars": 372,
+                "stars": 373,
                 "topics": [
                   "electronics",
                   "kicad",
@@ -252,7 +252,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 184,
+                "stars": 183,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -289,7 +289,7 @@
                 "open_issues": 10,
                 "owner": "sparkfun",
                 "repo": "SparkFun-Eagle-Libraries",
-                "stars": 1802,
+                "stars": 1801,
                 "topics": [
                   "eagle-cad",
                   "eagle-library",
@@ -314,7 +314,7 @@
                 "open_issues": 34,
                 "owner": "adafruit",
                 "repo": "Adafruit-Eagle-Library",
-                "stars": 1033,
+                "stars": 1032,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:09.822Z"
@@ -414,7 +414,7 @@
             "open_issues": 7,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1076,
+            "stars": 1077,
             "topics": [
               "awesome",
               "awesome-list",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T08:00:45.076Z",
+    "last_updated": "2026-09-27T08:34:31.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -658,7 +658,7 @@
       "open_issues": 37,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8163,
+      "stars": 8167,
       "topics": [
         "altium",
         "awesome",
