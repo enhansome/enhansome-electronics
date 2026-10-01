@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "upb-lea",
             "repo": "Inkscape_electric_Symbols",
-            "stars": 575,
+            "stars": 576,
             "topics": [
               "electric-circuits",
               "electrical-circuits",
@@ -118,7 +118,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4966,
+                "stars": 4968,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:09.822Z"
@@ -136,10 +136,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-28T17:42:08Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4581,
+                "stars": 4583,
                 "topics": [
                   "action-plugin",
                   "bom-tool",
@@ -191,11 +191,11 @@
                 "id": 246344800,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-28T16:16:19Z",
+                "last_commit": "2026-09-30T15:55:37Z",
                 "open_issues": 25,
                 "owner": "INTI-CMNB",
                 "repo": "KiBot",
-                "stars": 746,
+                "stars": 748,
                 "topics": [
                   "3d-models",
                   "automation",
@@ -252,7 +252,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 190,
+                "stars": 192,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -289,7 +289,7 @@
                 "open_issues": 10,
                 "owner": "sparkfun",
                 "repo": "SparkFun-Eagle-Libraries",
-                "stars": 1801,
+                "stars": 1802,
                 "topics": [
                   "eagle-cad",
                   "eagle-library",
@@ -458,7 +458,7 @@
             "id": 80423302,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-17T18:10:24Z",
+            "last_commit": "2026-09-30T14:30:20Z",
             "open_issues": 0,
             "owner": "ajaymnk",
             "repo": "open-electronics",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T09:01:21.538Z",
+    "last_updated": "2026-10-01T09:26:24.641Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -655,10 +655,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-14T08:57:12Z",
-      "open_issues": 37,
+      "open_issues": 39,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8173,
+      "stars": 8175,
       "topics": [
         "altium",
         "awesome",
