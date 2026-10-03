@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "upb-lea",
             "repo": "Inkscape_electric_Symbols",
-            "stars": 576,
+            "stars": 577,
             "topics": [
               "electric-circuits",
               "electrical-circuits",
@@ -139,7 +139,7 @@
                 "open_issues": 44,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4584,
+                "stars": 4586,
                 "topics": [
                   "action-plugin",
                   "bom-tool",
@@ -153,7 +153,7 @@
             {
               "node_type": "item",
               "title": "Xesscorp's list of KiCad 3rd party tools",
-              "description": null,
+              "description": "devbisme/kicad-3rd-party-tools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -276,7 +276,7 @@
             {
               "node_type": "item",
               "title": "SparkFun Electronics Eagle Libraries",
-              "description": null,
+              "description": "sparkfun/SparkFun-Eagle-Libraries",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -289,7 +289,7 @@
                 "open_issues": 10,
                 "owner": "sparkfun",
                 "repo": "SparkFun-Eagle-Libraries",
-                "stars": 1803,
+                "stars": 1804,
                 "topics": [
                   "eagle-cad",
                   "eagle-library",
@@ -301,7 +301,7 @@
             {
               "node_type": "item",
               "title": "Adafruit Eagle Library",
-              "description": null,
+              "description": "adafruit/Adafruit-Eagle-Library",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -414,7 +414,7 @@
             "open_issues": 7,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1079,
+            "stars": 1080,
             "topics": [
               "awesome",
               "awesome-list",
@@ -526,7 +526,7 @@
             "language": null,
             "license": "GPL-3.0",
             "last_commit": "2017-05-25T21:45:38Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "Vitorian",
             "repo": "awesome-fpga",
             "stars": 400,
@@ -575,10 +575,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-01T11:17:07Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "upb-lea",
             "repo": "awesome-open-source-power-electronics",
-            "stars": 367,
+            "stars": 368,
             "topics": [
               "awesome-lists",
               "open-source",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:01:54.114Z",
+    "last_updated": "2026-10-03T04:45:05.053Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -655,10 +655,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-14T08:57:12Z",
-      "open_issues": 39,
+      "open_issues": 40,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8177,
+      "stars": 8180,
       "topics": [
         "altium",
         "awesome",
