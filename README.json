@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:45:05.053Z",
+    "last_updated": "2026-10-03T08:34:03.073Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -658,7 +658,7 @@
       "open_issues": 40,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8180,
+      "stars": 8181,
       "topics": [
         "altium",
         "awesome",
