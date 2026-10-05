@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "upb-lea",
             "repo": "Inkscape_electric_Symbols",
-            "stars": 577,
+            "stars": 578,
             "topics": [
               "electric-circuits",
               "electrical-circuits",
@@ -85,7 +85,7 @@
             "id": 80365771,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-29T22:20:45Z",
+            "last_commit": "2026-10-04T19:23:57Z",
             "open_issues": 166,
             "owner": "horizon-eda",
             "repo": "horizon",
@@ -118,7 +118,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4969,
+                "stars": 4970,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:09.822Z"
@@ -139,7 +139,7 @@
                 "open_issues": 44,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4587,
+                "stars": 4590,
                 "topics": [
                   "action-plugin",
                   "bom-tool",
@@ -192,7 +192,7 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-01T16:48:23Z",
-                "open_issues": 25,
+                "open_issues": 26,
                 "owner": "INTI-CMNB",
                 "repo": "KiBot",
                 "stars": 750,
@@ -414,7 +414,7 @@
             "open_issues": 7,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1081,
+            "stars": 1082,
             "topics": [
               "awesome",
               "awesome-list",
@@ -438,7 +438,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-01-04T03:35:24Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "embedded-boston",
             "repo": "awesome-embedded-systems",
             "stars": 1020,
@@ -462,7 +462,7 @@
             "open_issues": 0,
             "owner": "ajaymnk",
             "repo": "open-electronics",
-            "stars": 753,
+            "stars": 754,
             "topics": [
               "build",
               "circuit",
@@ -500,7 +500,7 @@
             "open_issues": 1,
             "owner": "cajt",
             "repo": "list_of_robot_electronics",
-            "stars": 456,
+            "stars": 457,
             "topics": [
               "bot",
               "curated-list",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T08:50:05.014Z",
+    "last_updated": "2026-10-05T09:37:25.680Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
