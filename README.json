@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "upb-lea",
             "repo": "Inkscape_electric_Symbols",
-            "stars": 579,
+            "stars": 581,
             "topics": [
               "electric-circuits",
               "electrical-circuits",
@@ -139,7 +139,7 @@
                 "open_issues": 48,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4590,
+                "stars": 4591,
                 "topics": [
                   "action-plugin",
                   "bom-tool",
@@ -192,10 +192,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-05T12:58:49Z",
-                "open_issues": 24,
+                "open_issues": 25,
                 "owner": "INTI-CMNB",
                 "repo": "KiBot",
-                "stars": 750,
+                "stars": 751,
                 "topics": [
                   "3d-models",
                   "automation",
@@ -414,7 +414,7 @@
             "open_issues": 7,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1083,
+            "stars": 1084,
             "topics": [
               "awesome",
               "awesome-list",
@@ -438,10 +438,10 @@
             "language": null,
             "license": null,
             "last_commit": "2024-01-04T03:35:24Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "embedded-boston",
             "repo": "awesome-embedded-systems",
-            "stars": 1020,
+            "stars": 1021,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:09.822Z"
@@ -462,7 +462,7 @@
             "open_issues": 0,
             "owner": "ajaymnk",
             "repo": "open-electronics",
-            "stars": 755,
+            "stars": 756,
             "topics": [
               "build",
               "circuit",
@@ -500,7 +500,7 @@
             "open_issues": 1,
             "owner": "cajt",
             "repo": "list_of_robot_electronics",
-            "stars": 458,
+            "stars": 461,
             "topics": [
               "bot",
               "curated-list",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:14:34.301Z",
+    "last_updated": "2026-10-07T09:19:39.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -655,10 +655,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-14T08:57:12Z",
-      "open_issues": 41,
+      "open_issues": 42,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8190,
+      "stars": 8191,
       "topics": [
         "altium",
         "awesome",
