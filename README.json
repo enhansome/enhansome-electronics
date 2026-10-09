@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "upb-lea",
             "repo": "Inkscape_electric_Symbols",
-            "stars": 584,
+            "stars": 585,
             "topics": [
               "electric-circuits",
               "electrical-circuits",
@@ -139,7 +139,7 @@
                 "open_issues": 45,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4591,
+                "stars": 4594,
                 "topics": [
                   "action-plugin",
                   "bom-tool",
@@ -191,7 +191,7 @@
                 "id": 246344800,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-07T10:55:36Z",
+                "last_commit": "2026-10-08T16:29:23Z",
                 "open_issues": 24,
                 "owner": "INTI-CMNB",
                 "repo": "KiBot",
@@ -252,7 +252,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 196,
+                "stars": 197,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -414,7 +414,7 @@
             "open_issues": 7,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1085,
+            "stars": 1086,
             "topics": [
               "awesome",
               "awesome-list",
@@ -441,7 +441,7 @@
             "open_issues": 10,
             "owner": "embedded-boston",
             "repo": "awesome-embedded-systems",
-            "stars": 1021,
+            "stars": 1022,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:09.822Z"
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T09:30:09.197Z",
+    "last_updated": "2026-10-09T09:39:27.981Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -658,7 +658,7 @@
       "open_issues": 43,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8198,
+      "stars": 8200,
       "topics": [
         "altium",
         "awesome",
