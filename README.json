@@ -136,10 +136,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-10T06:18:05Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4599,
+                "stars": 4600,
                 "topics": [
                   "action-plugin",
                   "bom-tool",
@@ -195,7 +195,7 @@
                 "open_issues": 24,
                 "owner": "INTI-CMNB",
                 "repo": "KiBot",
-                "stars": 752,
+                "stars": 753,
                 "topics": [
                   "3d-models",
                   "automation",
@@ -226,7 +226,7 @@
                 "open_issues": 4,
                 "owner": "kitspace",
                 "repo": "kicad_footprints",
-                "stars": 373,
+                "stars": 374,
                 "topics": [
                   "electronics",
                   "kicad",
@@ -414,7 +414,7 @@
             "open_issues": 8,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1088,
+            "stars": 1090,
             "topics": [
               "awesome",
               "awesome-list",
@@ -441,7 +441,7 @@
             "open_issues": 10,
             "owner": "embedded-boston",
             "repo": "awesome-embedded-systems",
-            "stars": 1025,
+            "stars": 1026,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:09.822Z"
@@ -462,7 +462,7 @@
             "open_issues": 0,
             "owner": "ajaymnk",
             "repo": "open-electronics",
-            "stars": 758,
+            "stars": 759,
             "topics": [
               "build",
               "circuit",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T09:47:18.965Z",
+    "last_updated": "2026-10-13T09:45:19.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -654,11 +654,11 @@
       "id": 64177015,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-14T08:57:12Z",
-      "open_issues": 44,
+      "last_commit": "2026-10-12T13:41:09Z",
+      "open_issues": 43,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8216,
+      "stars": 8219,
       "topics": [
         "altium",
         "awesome",
@@ -670,7 +670,7 @@
         "pcb"
       ]
     },
-    "original_repository_sha": "9522f17da23bab2993d3e75f0f6ffcb60164f95d",
+    "original_repository_sha": "c26fbef5b21b0c381d11292e50597333a1c75c79",
     "enhanced_repository": "enhansome/enhansome-electronics",
     "enhanced_repository_description": null,
     "title": "Awesome Electronics with stars"
