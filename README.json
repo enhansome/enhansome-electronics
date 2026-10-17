@@ -118,7 +118,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4973,
+                "stars": 4974,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:09.822Z"
@@ -135,8 +135,8 @@
                 "id": 142263436,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-14T02:20:39Z",
-                "open_issues": 45,
+                "last_commit": "2026-10-17T02:50:58Z",
+                "open_issues": 44,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
                 "stars": 4603,
@@ -252,7 +252,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 199,
+                "stars": 200,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -500,7 +500,7 @@
             "open_issues": 1,
             "owner": "cajt",
             "repo": "list_of_robot_electronics",
-            "stars": 464,
+            "stars": 465,
             "topics": [
               "bot",
               "curated-list",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T07:32:16.096Z",
+    "last_updated": "2026-10-17T07:12:27.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -655,10 +655,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-12T13:41:09Z",
-      "open_issues": 43,
+      "open_issues": 42,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8236,
+      "stars": 8241,
       "topics": [
         "altium",
         "awesome",
