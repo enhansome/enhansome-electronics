@@ -57,7 +57,7 @@
                 "open_issues": 14,
                 "owner": "geckocircuits",
                 "repo": "GeckoCIRCUITS",
-                "stars": 91,
+                "stars": 92,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:09.822Z"
@@ -139,7 +139,7 @@
                 "open_issues": 44,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4607,
+                "stars": 4608,
                 "topics": [
                   "action-plugin",
                   "bom-tool",
@@ -289,7 +289,7 @@
                 "open_issues": 10,
                 "owner": "sparkfun",
                 "repo": "SparkFun-Eagle-Libraries",
-                "stars": 1805,
+                "stars": 1806,
                 "topics": [
                   "eagle-cad",
                   "eagle-library",
@@ -414,7 +414,7 @@
             "open_issues": 2,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1096,
+            "stars": 1097,
             "topics": [
               "awesome",
               "awesome-list",
@@ -578,7 +578,7 @@
             "open_issues": 1,
             "owner": "upb-lea",
             "repo": "awesome-open-source-power-electronics",
-            "stars": 373,
+            "stars": 374,
             "topics": [
               "awesome-lists",
               "open-source",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T08:05:57.513Z",
+    "last_updated": "2026-10-20T07:56:08.487Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -658,7 +658,7 @@
       "open_issues": 42,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8247,
+      "stars": 8251,
       "topics": [
         "altium",
         "awesome",
