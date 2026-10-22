@@ -118,7 +118,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4974,
+                "stars": 4975,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:09.822Z"
@@ -139,7 +139,7 @@
                 "open_issues": 44,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4610,
+                "stars": 4613,
                 "topics": [
                   "action-plugin",
                   "bom-tool",
@@ -191,7 +191,7 @@
                 "id": 246344800,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-15T16:20:14Z",
+                "last_commit": "2026-10-21T16:47:57Z",
                 "open_issues": 25,
                 "owner": "INTI-CMNB",
                 "repo": "KiBot",
@@ -252,7 +252,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 203,
+                "stars": 206,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -414,7 +414,7 @@
             "open_issues": 3,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1098,
+            "stars": 1099,
             "topics": [
               "awesome",
               "awesome-list",
@@ -441,7 +441,7 @@
             "open_issues": 10,
             "owner": "embedded-boston",
             "repo": "awesome-embedded-systems",
-            "stars": 1030,
+            "stars": 1031,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:09.822Z"
@@ -500,7 +500,7 @@
             "open_issues": 1,
             "owner": "cajt",
             "repo": "list_of_robot_electronics",
-            "stars": 465,
+            "stars": 467,
             "topics": [
               "bot",
               "curated-list",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T08:00:12.576Z",
+    "last_updated": "2026-10-22T07:58:32.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -658,7 +658,7 @@
       "open_issues": 41,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8255,
+      "stars": 8260,
       "topics": [
         "altium",
         "awesome",
