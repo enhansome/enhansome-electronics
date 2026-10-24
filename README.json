@@ -139,7 +139,7 @@
                 "open_issues": 44,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4614,
+                "stars": 4615,
                 "topics": [
                   "action-plugin",
                   "bom-tool",
@@ -248,7 +248,7 @@
                 "id": 1365813599,
                 "language": "Python",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-09-17T13:15:19Z",
+                "last_commit": "2026-10-23T18:43:31Z",
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
@@ -414,7 +414,7 @@
             "open_issues": 3,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1099,
+            "stars": 1103,
             "topics": [
               "awesome",
               "awesome-list",
@@ -630,7 +630,7 @@
             "open_issues": 0,
             "owner": "TM90",
             "repo": "awesome-hwd-tools",
-            "stars": 91,
+            "stars": 92,
             "topics": [
               "asic",
               "awesome-list",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T07:57:08.473Z",
+    "last_updated": "2026-10-24T07:36:34.996Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -658,7 +658,7 @@
       "open_issues": 41,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8268,
+      "stars": 8275,
       "topics": [
         "altium",
         "awesome",
