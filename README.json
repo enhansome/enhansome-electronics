@@ -89,7 +89,7 @@
             "open_issues": 166,
             "owner": "horizon-eda",
             "repo": "horizon",
-            "stars": 1324,
+            "stars": 1325,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:09.822Z"
@@ -139,7 +139,7 @@
                 "open_issues": 44,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4615,
+                "stars": 4616,
                 "topics": [
                   "action-plugin",
                   "bom-tool",
@@ -252,7 +252,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 206,
+                "stars": 208,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -441,7 +441,7 @@
             "open_issues": 10,
             "owner": "embedded-boston",
             "repo": "awesome-embedded-systems",
-            "stars": 1031,
+            "stars": 1033,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:09.822Z"
@@ -578,7 +578,7 @@
             "open_issues": 1,
             "owner": "upb-lea",
             "repo": "awesome-open-source-power-electronics",
-            "stars": 375,
+            "stars": 376,
             "topics": [
               "awesome-lists",
               "open-source",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T07:36:34.996Z",
+    "last_updated": "2026-10-25T07:49:34.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -658,7 +658,7 @@
       "open_issues": 41,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8275,
+      "stars": 8279,
       "topics": [
         "altium",
         "awesome",
