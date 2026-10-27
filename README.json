@@ -86,7 +86,7 @@
             "language": "C",
             "license": "GPL-3.0",
             "last_commit": "2026-10-04T19:23:57Z",
-            "open_issues": 167,
+            "open_issues": 166,
             "owner": "horizon-eda",
             "repo": "horizon",
             "stars": 1325,
@@ -136,10 +136,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-17T02:50:58Z",
-                "open_issues": 45,
+                "open_issues": 46,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4616,
+                "stars": 4618,
                 "topics": [
                   "action-plugin",
                   "bom-tool",
@@ -289,7 +289,7 @@
                 "open_issues": 10,
                 "owner": "sparkfun",
                 "repo": "SparkFun-Eagle-Libraries",
-                "stars": 1808,
+                "stars": 1809,
                 "topics": [
                   "eagle-cad",
                   "eagle-library",
@@ -411,10 +411,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-14T09:23:03Z",
-            "open_issues": 3,
+            "open_issues": 5,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1103,
+            "stars": 1104,
             "topics": [
               "awesome",
               "awesome-list",
@@ -441,7 +441,7 @@
             "open_issues": 10,
             "owner": "embedded-boston",
             "repo": "awesome-embedded-systems",
-            "stars": 1033,
+            "stars": 1034,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:09.822Z"
@@ -462,7 +462,7 @@
             "open_issues": 0,
             "owner": "ajaymnk",
             "repo": "open-electronics",
-            "stars": 765,
+            "stars": 766,
             "topics": [
               "build",
               "circuit",
@@ -500,7 +500,7 @@
             "open_issues": 1,
             "owner": "cajt",
             "repo": "list_of_robot_electronics",
-            "stars": 469,
+            "stars": 470,
             "topics": [
               "bot",
               "curated-list",
@@ -578,7 +578,7 @@
             "open_issues": 1,
             "owner": "upb-lea",
             "repo": "awesome-open-source-power-electronics",
-            "stars": 376,
+            "stars": 377,
             "topics": [
               "awesome-lists",
               "open-source",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T08:08:29.338Z",
+    "last_updated": "2026-10-27T08:23:43.749Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -658,7 +658,7 @@
       "open_issues": 39,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8285,
+      "stars": 8290,
       "topics": [
         "altium",
         "awesome",
