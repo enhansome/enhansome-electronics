@@ -139,7 +139,7 @@
                 "open_issues": 46,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4618,
+                "stars": 4621,
                 "topics": [
                   "action-plugin",
                   "bom-tool",
@@ -195,7 +195,7 @@
                 "open_issues": 24,
                 "owner": "INTI-CMNB",
                 "repo": "KiBot",
-                "stars": 753,
+                "stars": 754,
                 "topics": [
                   "3d-models",
                   "automation",
@@ -252,7 +252,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 208,
+                "stars": 209,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -414,7 +414,7 @@
             "open_issues": 5,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1104,
+            "stars": 1106,
             "topics": [
               "awesome",
               "awesome-list",
@@ -441,7 +441,7 @@
             "open_issues": 10,
             "owner": "embedded-boston",
             "repo": "awesome-embedded-systems",
-            "stars": 1034,
+            "stars": 1035,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:09.822Z"
@@ -462,7 +462,7 @@
             "open_issues": 0,
             "owner": "ajaymnk",
             "repo": "open-electronics",
-            "stars": 766,
+            "stars": 767,
             "topics": [
               "build",
               "circuit",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T08:23:43.749Z",
+    "last_updated": "2026-10-28T09:00:16.015Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -658,7 +658,7 @@
       "open_issues": 39,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8290,
+      "stars": 8293,
       "topics": [
         "altium",
         "awesome",
