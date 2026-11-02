@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "upb-lea",
             "repo": "Inkscape_electric_Symbols",
-            "stars": 589,
+            "stars": 590,
             "topics": [
               "electric-circuits",
               "electrical-circuits",
@@ -89,7 +89,7 @@
             "open_issues": 167,
             "owner": "horizon-eda",
             "repo": "horizon",
-            "stars": 1325,
+            "stars": 1327,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:09.822Z"
@@ -118,7 +118,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4980,
+                "stars": 4982,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:09.822Z"
@@ -139,7 +139,7 @@
                 "open_issues": 47,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4629,
+                "stars": 4632,
                 "topics": [
                   "action-plugin",
                   "bom-tool",
@@ -166,7 +166,7 @@
                 "open_issues": 4,
                 "owner": "devbisme",
                 "repo": "kicad-3rd-party-tools",
-                "stars": 845,
+                "stars": 846,
                 "topics": [
                   "bom",
                   "kicad-footprints",
@@ -414,7 +414,7 @@
             "open_issues": 4,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1113,
+            "stars": 1115,
             "topics": [
               "awesome",
               "awesome-list",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T09:46:21.902Z",
+    "last_updated": "2026-11-02T09:59:48.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -658,7 +658,7 @@
       "open_issues": 40,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8315,
+      "stars": 8317,
       "topics": [
         "altium",
         "awesome",
