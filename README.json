@@ -118,7 +118,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4982,
+                "stars": 4983,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:09.822Z"
@@ -139,7 +139,7 @@
                 "open_issues": 47,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4632,
+                "stars": 4633,
                 "topics": [
                   "action-plugin",
                   "bom-tool",
@@ -166,7 +166,7 @@
                 "open_issues": 4,
                 "owner": "devbisme",
                 "repo": "kicad-3rd-party-tools",
-                "stars": 846,
+                "stars": 847,
                 "topics": [
                   "bom",
                   "kicad-footprints",
@@ -252,7 +252,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 215,
+                "stars": 216,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -578,7 +578,7 @@
             "open_issues": 1,
             "owner": "upb-lea",
             "repo": "awesome-open-source-power-electronics",
-            "stars": 380,
+            "stars": 381,
             "topics": [
               "awesome-lists",
               "open-source",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T09:59:48.780Z",
+    "last_updated": "2026-11-03T10:06:20.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -655,10 +655,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-12T13:41:09Z",
-      "open_issues": 40,
+      "open_issues": 39,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8317,
+      "stars": 8322,
       "topics": [
         "altium",
         "awesome",
