@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "upb-lea",
             "repo": "Inkscape_electric_Symbols",
-            "stars": 592,
+            "stars": 593,
             "topics": [
               "electric-circuits",
               "electrical-circuits",
@@ -118,7 +118,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4988,
+                "stars": 4989,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:09.822Z"
@@ -136,10 +136,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-17T02:50:58Z",
-                "open_issues": 48,
+                "open_issues": 47,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4643,
+                "stars": 4645,
                 "topics": [
                   "action-plugin",
                   "bom-tool",
@@ -252,7 +252,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 226,
+                "stars": 228,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -414,7 +414,7 @@
             "open_issues": 4,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1121,
+            "stars": 1122,
             "topics": [
               "awesome",
               "awesome-list",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T10:23:58.420Z",
+    "last_updated": "2026-11-10T10:27:56.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -658,7 +658,7 @@
       "open_issues": 40,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8344,
+      "stars": 8347,
       "topics": [
         "altium",
         "awesome",
