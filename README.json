@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "upb-lea",
             "repo": "Inkscape_electric_Symbols",
-            "stars": 593,
+            "stars": 594,
             "topics": [
               "electric-circuits",
               "electrical-circuits",
@@ -89,7 +89,7 @@
             "open_issues": 169,
             "owner": "horizon-eda",
             "repo": "horizon",
-            "stars": 1329,
+            "stars": 1328,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:09.822Z"
@@ -139,7 +139,7 @@
                 "open_issues": 47,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4645,
+                "stars": 4647,
                 "topics": [
                   "action-plugin",
                   "bom-tool",
@@ -191,7 +191,7 @@
                 "id": 246344800,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-06T13:00:33Z",
+                "last_commit": "2026-11-10T14:11:02Z",
                 "open_issues": 24,
                 "owner": "INTI-CMNB",
                 "repo": "KiBot",
@@ -414,7 +414,7 @@
             "open_issues": 4,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1122,
+            "stars": 1123,
             "topics": [
               "awesome",
               "awesome-list",
@@ -441,7 +441,7 @@
             "open_issues": 11,
             "owner": "embedded-boston",
             "repo": "awesome-embedded-systems",
-            "stars": 1039,
+            "stars": 1038,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:09.822Z"
@@ -603,7 +603,7 @@
             "open_issues": 0,
             "owner": "kelu124",
             "repo": "awesome-latticeFPGAs",
-            "stars": 363,
+            "stars": 364,
             "topics": [
               "awesome",
               "awesome-list",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T10:27:56.603Z",
+    "last_updated": "2026-11-11T09:52:15.026Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
