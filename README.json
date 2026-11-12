@@ -89,7 +89,7 @@
             "open_issues": 169,
             "owner": "horizon-eda",
             "repo": "horizon",
-            "stars": 1328,
+            "stars": 1329,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:09.822Z"
@@ -136,7 +136,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-17T02:50:58Z",
-                "open_issues": 47,
+                "open_issues": 48,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
                 "stars": 4647,
@@ -163,7 +163,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-05-15T12:31:57Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "devbisme",
                 "repo": "kicad-3rd-party-tools",
                 "stars": 848,
@@ -195,7 +195,7 @@
                 "open_issues": 24,
                 "owner": "INTI-CMNB",
                 "repo": "KiBot",
-                "stars": 761,
+                "stars": 762,
                 "topics": [
                   "3d-models",
                   "automation",
@@ -411,10 +411,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-14T09:23:03Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1123,
+            "stars": 1125,
             "topics": [
               "awesome",
               "awesome-list",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T09:52:15.026Z",
+    "last_updated": "2026-11-12T10:21:06.771Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -658,7 +658,7 @@
       "open_issues": 40,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8347,
+      "stars": 8353,
       "topics": [
         "altium",
         "awesome",
