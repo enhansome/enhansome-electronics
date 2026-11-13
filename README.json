@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "upb-lea",
             "repo": "Inkscape_electric_Symbols",
-            "stars": 594,
+            "stars": 595,
             "topics": [
               "electric-circuits",
               "electrical-circuits",
@@ -118,7 +118,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4989,
+                "stars": 4988,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:09.822Z"
@@ -135,8 +135,8 @@
                 "id": 142263436,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-17T02:50:58Z",
-                "open_issues": 48,
+                "last_commit": "2026-11-13T09:54:15Z",
+                "open_issues": 47,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
                 "stars": 4647,
@@ -195,7 +195,7 @@
                 "open_issues": 24,
                 "owner": "INTI-CMNB",
                 "repo": "KiBot",
-                "stars": 762,
+                "stars": 763,
                 "topics": [
                   "3d-models",
                   "automation",
@@ -248,7 +248,7 @@
                 "id": 1365813599,
                 "language": "Python",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-10-23T18:43:31Z",
+                "last_commit": "2026-11-13T09:52:49Z",
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
@@ -411,7 +411,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-14T09:23:03Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
             "stars": 1125,
@@ -529,7 +529,7 @@
             "open_issues": 4,
             "owner": "Vitorian",
             "repo": "awesome-fpga",
-            "stars": 401,
+            "stars": 400,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:09.822Z"
@@ -578,7 +578,7 @@
             "open_issues": 1,
             "owner": "upb-lea",
             "repo": "awesome-open-source-power-electronics",
-            "stars": 386,
+            "stars": 387,
             "topics": [
               "awesome-lists",
               "open-source",
@@ -603,7 +603,7 @@
             "open_issues": 0,
             "owner": "kelu124",
             "repo": "awesome-latticeFPGAs",
-            "stars": 364,
+            "stars": 365,
             "topics": [
               "awesome",
               "awesome-list",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T10:21:06.771Z",
+    "last_updated": "2026-11-13T10:01:41.702Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -658,7 +658,7 @@
       "open_issues": 40,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8353,
+      "stars": 8355,
       "topics": [
         "altium",
         "awesome",
