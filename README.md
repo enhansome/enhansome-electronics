@@ -121,7 +121,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Free EDA Packages
 
-* [Horizon EDA](https://github.com/horizon-eda/horizon) ⭐ 1,330 | 🐛 169 | 🌐 C | 📅 2026-11-04 - A free and open source EDA tool with the focus on shortcut operation.
+* [Horizon EDA](https://github.com/horizon-eda/horizon) ⭐ 1,331 | 🐛 169 | 🌐 C | 📅 2026-11-04 - A free and open source EDA tool with the focus on shortcut operation.
 * [KiCad](https://kicad.org/) - Open source EDA package with push and shove router, differential pairs and much more.
 * [Eagle](https://www.autodesk.com/products/eagle/overview) - One of the most popular EDA packages due to it's (board size restricted) free version.
 * [DesignSpark PCB](https://www.rs-online.com/designspark/pcb-software) - Gratis EDA package without restrictions, sponserd by RS Components.
@@ -141,8 +141,8 @@ This list is for websites, services, software, tools and more: everything that y
 ### KiCad
 
 * [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) ⭐ 4,988 | 🐛 22 | 📅 2024-07-02 -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
-* [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) ⭐ 4,647 | 🐛 48 | 🌐 Python | 📅 2026-11-13 - A html BOM generation tool for manual pick and place.
-* [Xesscorp's list of KiCad 3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools) ⭐ 849 | 🐛 5 | 📅 2026-05-15
+* [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) ⭐ 4,647 | 🐛 49 | 🌐 Python | 📅 2026-11-13 - A html BOM generation tool for manual pick and place.
+* [Xesscorp's list of KiCad 3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools) ⭐ 850 | 🐛 5 | 📅 2026-05-15
 * [KiBot](https://github.com/INTI-CMNB/KiBot) ⭐ 763 | 🐛 24 | 🌐 Python | 📅 2026-11-13 - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
 * [Footprint Collection](https://github.com/kitspace/kicad_footprints) ⭐ 377 | 🐛 4 | 🌐 Python | 📅 2023-01-25 - Collection of all the KiCad footprints available online and some scripts to manage them.
 * [Awesome KiCad Projects](https://github.com/way2pramil/awesome-kicad-projects) ⭐ 228 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - Curated list of open source hardware projects whose PCBs are designed in KiCad.
@@ -153,7 +153,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 ### Eagle
 
-* [SparkFun Electronics Eagle Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries) ⭐ 1,813 | 🐛 10 | 📅 2024-08-23
+* [SparkFun Electronics Eagle Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries) ⭐ 1,814 | 🐛 10 | 📅 2024-08-23
 * [Adafruit Eagle Library](https://github.com/adafruit/Adafruit-Eagle-Library) ⭐ 1,032 | 🐛 34 | 📅 2020-07-20
 * [List of ULPs everyone should know](https://www.element14.com/community/community/eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
 
@@ -272,7 +272,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Other Lists
 
-* [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) ⭐ 1,126 | 🐛 6 | 📅 2026-10-14 - Helpful items for making and learning about open source hardware projects.
+* [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) ⭐ 1,129 | 🐛 6 | 📅 2026-10-14 - Helpful items for making and learning about open source hardware projects.
 * [embedded-boston/awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems) ⭐ 1,039 | 🐛 11 | 📅 2024-01-04 - Awesome list of embedded programming resources.
 * [intajay/open-electronics](https://github.com/intajay/open-electronics) ⭐ 769 | 🐛 0 | 📅 2026-09-30 - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
 * [cajt/list\_of\_robot\_electronics](https://github.com/cajt/list_of_robot_electronics) ⭐ 473 | 🐛 1 | 📅 2025-07-26 - A GitHub list of resources, projects and products for robot electronics.
@@ -293,4 +293,4 @@ This list is for websites, services, software, tools and more: everything that y
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._

@@ -89,7 +89,7 @@
             "open_issues": 169,
             "owner": "horizon-eda",
             "repo": "horizon",
-            "stars": 1330,
+            "stars": 1331,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:09.822Z"
@@ -136,7 +136,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-13T09:54:15Z",
-                "open_issues": 48,
+                "open_issues": 49,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
                 "stars": 4647,
@@ -166,7 +166,7 @@
                 "open_issues": 5,
                 "owner": "devbisme",
                 "repo": "kicad-3rd-party-tools",
-                "stars": 849,
+                "stars": 850,
                 "topics": [
                   "bom",
                   "kicad-footprints",
@@ -289,7 +289,7 @@
                 "open_issues": 10,
                 "owner": "sparkfun",
                 "repo": "SparkFun-Eagle-Libraries",
-                "stars": 1813,
+                "stars": 1814,
                 "topics": [
                   "eagle-cad",
                   "eagle-library",
@@ -414,7 +414,7 @@
             "open_issues": 6,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1126,
+            "stars": 1129,
             "topics": [
               "awesome",
               "awesome-list",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T09:56:46.767Z",
+    "last_updated": "2026-11-16T10:11:22.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -658,7 +658,7 @@
       "open_issues": 41,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8359,
+      "stars": 8364,
       "topics": [
         "altium",
         "awesome",
