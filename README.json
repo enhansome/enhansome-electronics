@@ -57,7 +57,7 @@
                 "open_issues": 14,
                 "owner": "geckocircuits",
                 "repo": "GeckoCIRCUITS",
-                "stars": 95,
+                "stars": 96,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:09.822Z"
@@ -89,7 +89,7 @@
             "open_issues": 168,
             "owner": "horizon-eda",
             "repo": "horizon",
-            "stars": 1330,
+            "stars": 1331,
             "topics": []
           },
           "first_seen": "2026-08-28T14:36:09.822Z"
@@ -139,7 +139,7 @@
                 "open_issues": 50,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4655,
+                "stars": 4656,
                 "topics": [
                   "action-plugin",
                   "bom-tool",
@@ -252,7 +252,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 229,
+                "stars": 230,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -462,7 +462,7 @@
             "open_issues": 0,
             "owner": "ajaymnk",
             "repo": "open-electronics",
-            "stars": 770,
+            "stars": 771,
             "topics": [
               "build",
               "circuit",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T10:14:51.312Z",
+    "last_updated": "2026-11-22T10:21:01.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -658,7 +658,7 @@
       "open_issues": 40,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8379,
+      "stars": 8386,
       "topics": [
         "altium",
         "awesome",
