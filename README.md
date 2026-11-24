@@ -81,7 +81,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 ### Analog and Mixed Signal Circuit Simulators
 
-* [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project](https://github.com/geckocircuits/GeckoCIRCUITS) ⭐ 97 | 🐛 14 | 🌐 Java | 📅 2026-02-23. Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
+* [GeckoCIRCUITS](https://de.wikipedia.org/wiki/GeckoCircuits) - Open Source Power Electronic Circuit Simulator. [GitHub Project](https://github.com/geckocircuits/GeckoCIRCUITS) ⭐ 97 | 🐛 15 | 🌐 Java | 📅 2026-02-23. Direct [download link](http://gecko-simulations.com/GeckoCIRCUITS/GeckoCIRCUITS.zip) due to broken website.
 * [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) - The industry standard free SPICE circuit simulator from Linear Technologies. Also see the unofficial [LTwiki](http://ltwiki.org/?title=Main_Page) and [Group](https://groups.io/g/LTspice).
 * [ngspice](http://ngspice.sourceforge.net/) - Open source SPICE circuit simulator.
 * [Circuit JS/Falstad](http://www.falstad.com/circuit/circuitjs.html) - Free, open source online simulator with electron flow visualization (rewrite of original Java applet by Paul Falstad).
@@ -141,9 +141,9 @@ This list is for websites, services, software, tools and more: everything that y
 ### KiCad
 
 * [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) ⭐ 4,991 | 🐛 22 | 📅 2024-07-02 -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
-* [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) ⭐ 4,656 | 🐛 50 | 🌐 Python | 📅 2026-11-13 - A html BOM generation tool for manual pick and place.
-* [Xesscorp's list of KiCad 3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools) ⭐ 852 | 🐛 6 | 📅 2026-05-15
-* [KiBot](https://github.com/INTI-CMNB/KiBot) ⭐ 763 | 🐛 24 | 🌐 Python | 📅 2026-11-19 - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
+* [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) ⭐ 4,660 | 🐛 50 | 🌐 Python | 📅 2026-11-13 - A html BOM generation tool for manual pick and place.
+* [Xesscorp's list of KiCad 3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools) ⭐ 852 | 🐛 7 | 📅 2026-05-15
+* [KiBot](https://github.com/INTI-CMNB/KiBot) ⭐ 763 | 🐛 24 | 🌐 Python | 📅 2026-11-24 - Generate the fabrication and documentation files for your KiCad projects easily, repeatable, and most of all, scriptably.
 * [Footprint Collection](https://github.com/kitspace/kicad_footprints) ⭐ 378 | 🐛 4 | 🌐 Python | 📅 2023-01-25 - Collection of all the KiCad footprints available online and some scripts to manage them.
 * [Awesome KiCad Projects](https://github.com/way2pramil/awesome-kicad-projects) ⭐ 230 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - Curated list of open source hardware projects whose PCBs are designed in KiCad.
 * [Contextual Electronics' Shine on You Crazy KiCad](https://contextualelectronics.com/courses/shine-on-you-crazy-kicad/) - Beginner video tutorial that gets you to a manufactured board as quickly as possible.
@@ -272,13 +272,13 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Other Lists
 
-* [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) ⭐ 1,131 | 🐛 7 | 📅 2026-10-14 - Helpful items for making and learning about open source hardware projects.
+* [delftopenhardware/awesome-open-hardware](https://github.com/delftopenhardware/awesome-open-hardware) ⭐ 1,131 | 🐛 8 | 📅 2026-10-14 - Helpful items for making and learning about open source hardware projects.
 * [embedded-boston/awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems) ⭐ 1,039 | 🐛 12 | 📅 2024-01-04 - Awesome list of embedded programming resources.
 * [intajay/open-electronics](https://github.com/intajay/open-electronics) ⭐ 771 | 🐛 0 | 📅 2026-09-30 - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers.
-* [cajt/list\_of\_robot\_electronics](https://github.com/cajt/list_of_robot_electronics) ⭐ 471 | 🐛 1 | 📅 2025-07-26 - A GitHub list of resources, projects and products for robot electronics.
+* [cajt/list\_of\_robot\_electronics](https://github.com/cajt/list_of_robot_electronics) ⭐ 472 | 🐛 1 | 📅 2025-07-26 - A GitHub list of resources, projects and products for robot electronics.
 * [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga) ⭐ 400 | 🐛 5 | 📅 2017-05-25 - Awesome list of FPGA resources.
 * [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) ⚠️ Archived - A list of cheap electronics from China, that you can use in your projects.
-* [upb-lea/awesome-open-source-power-electronics](https://github.com/upb-lea/awesome-open-source-power-electronics) ⭐ 390 | 🐛 1 | 📅 2026-11-17 - Open source software list specialized on power electronics.
+* [upb-lea/awesome-open-source-power-electronics](https://github.com/upb-lea/awesome-open-source-power-electronics) ⭐ 391 | 🐛 1 | 📅 2026-11-24 - Open source software list specialized on power electronics.
 * [Awesome Lattice FPGAs](https://github.com/kelu124/awesome-latticeFPGAs) ⭐ 365 | 🐛 0 | 📅 2026-09-27 - A curated list of awesome open-source FPGA boards.
 * [TM90/awesome-hwd-tools](https://github.com/TM90/awesome-hwd-tools) ⭐ 91 | 🐛 1 | 📅 2025-06-20 - A curated list of hardware design tools with a focus on chip design.
 * [PCB/EDA software list on the EEVblog forums](https://www.eevblog.com/forum/eda/pcbeda-software-list/) - A much more comprehensive list of all the software tools available.
@@ -293,4 +293,4 @@ This list is for websites, services, software, tools and more: everything that y
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
