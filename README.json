@@ -118,7 +118,7 @@
                 "open_issues": 22,
                 "owner": "ruiqimao",
                 "repo": "keyboard-pcb-guide",
-                "stars": 4991,
+                "stars": 4992,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:36:09.822Z"
@@ -139,7 +139,7 @@
                 "open_issues": 50,
                 "owner": "openscopeproject",
                 "repo": "InteractiveHtmlBom",
-                "stars": 4665,
+                "stars": 4664,
                 "topics": [
                   "action-plugin",
                   "bom-tool",
@@ -191,7 +191,7 @@
                 "id": 246344800,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-24T12:54:13Z",
+                "last_commit": "2026-11-27T14:12:14Z",
                 "open_issues": 24,
                 "owner": "INTI-CMNB",
                 "repo": "KiBot",
@@ -252,7 +252,7 @@
                 "open_issues": 0,
                 "owner": "way2pramil",
                 "repo": "awesome-kicad-projects",
-                "stars": 232,
+                "stars": 233,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -414,7 +414,7 @@
             "open_issues": 9,
             "owner": "delftopenhardware",
             "repo": "awesome-open-hardware",
-            "stars": 1133,
+            "stars": 1135,
             "topics": [
               "awesome",
               "awesome-list",
@@ -603,7 +603,7 @@
             "open_issues": 0,
             "owner": "kelu124",
             "repo": "awesome-latticeFPGAs",
-            "stars": 367,
+            "stars": 368,
             "topics": [
               "awesome",
               "awesome-list",
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T11:26:24.242Z",
+    "last_updated": "2026-11-28T10:54:44.893Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
@@ -655,10 +655,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-12T13:41:09Z",
-      "open_issues": 41,
+      "open_issues": 40,
       "owner": "kitspace",
       "repo": "awesome-electronics",
-      "stars": 8405,
+      "stars": 8407,
       "topics": [
         "altium",
         "awesome",
